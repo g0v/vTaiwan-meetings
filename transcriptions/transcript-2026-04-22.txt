@@ -1,0 +1,249 @@
+[下午07:14:50] 崔家瑋: 我們剛剛忘記用紫色麥克風 Josh你要不要現在重新用一下紫色麥克風 大概是簡單介紹 好 那我就幫Josh重複一下 就是紫森跟Josh上週在巴塞隆納研討會遇到 然後紫森的研究成果目前有放在共筆上 是一個叫做Botender的一個工具 然後他有寫了一篇paper放在Arxiv上 是這個Supporting Communities in collaboratively designing AI agents 是個CASEBASE
+
+[下午07:15:18] 崔家瑋: 所以根據Josh剛剛的介紹 其實比較像是用AI agent在discord群組 或是其他聊天室裡面 然後讓大家發表意見 然後有AI agents來做 有AI agent來做分析這樣子 對 應該是這樣沒錯吧 我沒有講錯吧 Josh 來一次我分析 OK 對對對 沒錯 我覺得很值得紀念啊 我們在 我們不管是我們
+
+[下午07:15:50] 崔家瑋: 是在瑞士拍的那一張 或者是我們在 就是這一張 我都很值得紀念 而且其實我六月 我六月初也要去西班牙一趟 不是去巴塞隆 是要去那個斯科比亞 西維利亞 對 要去開網絡治理的會議 斯科比亞 對對對 好 那其他的更新 就是我上禮拜有兩件事 第一件事已經是 我們之前跟加拿大的那個記者 訪問的部分 他兩篇文章已經看出了 跟DTA
+
+[下午07:16:19] 崔家瑋: 有關的應該是 因為他有一篇是跟Gilinby有關 這篇是跟Gilinby有關的 然後跟vTaiwan有關的應該是這一篇 這一篇 然後請他翻譯成中文 因為他原本他是法文的一個雜志 然後我現在就是有回信問他說 能不能夠投稿到這個拉德比爾的這個報紙上 然後他應該是蒙特利爾 也就是法語區的這個國家 比較大的一個 哦 你看 他有把Josh跟
+
+[下午07:16:48] 崔家瑋: 我的他有把George列上去 他就說 看我拍片 哦有啊有啊 就是我們有一次不是請他 那時候我們在寫那個提案書 然後我們有請他幫忙修文字的那一次 對就是我們要 我們之前有在投那個Mozilla的AI計畫 然後我後來有單獨跟他約一個訪問 對啊 然後我那時候就跟他講說 我就是大概介紹了
+
+[下午07:17:18] 崔家瑋: 就是vTaiwan的內容 然後還有就是他怎麼跟 怎麼跟G0E合作這樣 然後也有就是vTaiwan的平台的一些介紹 還有就是相關的一些內容 不過比較 比較 基本上大概就這樣 然後他其實是一個全關性的 在介紹G0E的內容 所以
+
+[下午07:17:50] 崔家瑋: 台灣的部分的話 相對而言就沒有那麼的豐富 然後他把我當作是 給看一下 哦這個Josh 這個Josh是 哈哈 對對對 應該是你吧 對啊 那就是對對對 大概是這樣 所以這個是第一篇 然後
+
+[下午07:18:19] 崔家瑋: 這篇是就是第二個部分的更新 然後等一下可能也可以請Bashen做一下自我介紹 然後還有就是介紹一下Bashen 最近剛用一件重整器所做的實際的案例 這樣子 就是我上周有跟 Be Taiwan時期協助建立這個討論框架的 妮扣律師討論 就是Be Taiwan的一些事情 那他目前有提供的幾個方向是 第一個是 他可以協助我完成一篇 就是我們自己寫的Be Taiwan的當作歷史文
+
+[下午07:18:50] 崔家瑋: 因為目前網路上的敘事 大部分是指說 就是當時的政委找到GNV社群 然後來協助 不過其實當時漏掉了一塊蠻大的拼圖 是所謂的資測會 就是台灣有一個叫做 Internet Information Industry Institute 它底下有一個科技法律研究所 當時Nicole在這個單位擔任所長的角色 然後她當時負責設計整個B台灣的架構 那因為我今年有參加一些網路治理商
+
+[下午07:19:19] 崔家瑋: 所以包含像等一下要報告的TW Taiwan Internet Week也是 所以就是因為有這些網路治理相關的經驗 所以就跟Nicole搭上線 然後Nicole她是說 就是第一個是她那時候 涉及VTaiwan的一些細節 她可以幫助我們做補充 就是包含說 為什麼要采取現在這樣子的一個技術框架 還有就是相關的 多元利害關系的征集 當時參考的范圍是什麼 她可以幫我們做補充 所以目前預計
+
+[下午07:19:49] 崔家瑋: 就會跟他約一次比較深度的訪談 然後用錄音的方式 請AI整理出訪談的出稿 然後把它變成是一篇 可以發表在我們網站上的文章 然後可能就會把 VTaiwan從2014年 那時候炒創初期的 那段時間的東西先補進來 然後我藏州也有遇到 另外一個早期的 Ronnie 另外一個早期的參與者Ronnie 然後Ronnie他是工程師 然後現在是台灣負責 在做開源資料的 Open公司的負責人 還有創辦人 那他目前在
+
+[下午07:20:19] 崔家瑋: 做的事情是 就是他有告訴我說 因為VTaiwan其實現在的資料都放在 很多早期的資料都放在Hackpad上 那Hackpad之前 Hackpad其實就是我們現在使用的 Hack&D的早期版 所以 但是有一個好處是Hackpad的資料 Ronnie已經重寫過一遍 用AI coding 這方式重新架設了一個 比較好讀取的東西 所以Ronnie的意思是說 他建議我可以試著把那些資料 全部下載下來之後 用Code
+
+[下午07:20:51] 崔家瑋: 來整理 或者是用cloud code來整理 這樣子 就等於是讓AI agent來幫我們做 就是相關資料的整理 然後去做VTaiwan的整個專案的屬於這樣子 這樣會比我們自己人工去閱讀 還有整理會快的很多 對 那這個是兩條路線去建構VTaiwan的 之前的狀況 那目前我目前給這個東西設定的Milestone 大概6月的時候要完成 6月 希望6月底之前完成這件事情 所以跟Nicole的訪問應該會約在5月左右
+
+[下午07:21:20] 崔家瑋: 然後Nicone那邊 他其實有講到說有其他的合作 因為像他們最近在推一些跟數位 他們最近在推的一個東西叫做數位信任 就是因為現在網路上有很多 就是AI agents的關係 然後這些AI agent 他其實會對網路系統的使用者 他造成網路系統的維護者 或者是數位服務的提供者 造成一定程度的影響 因為你會不知道說 這個AI agent他送出來的這個request 他送出來的這些內容 到底是不是
+
+[下午07:21:51] 崔家瑋: 真人還是AI agent送出來的 那在這樣的一個情況之下 他們希望去導入一些機制去 讓企業可以准備好應對這樣子的事情 然後是說好像是說 Deloy就是一家很有名的會計跟顧問公司 他們想要找NICOLE來做這件事情 那NICOLE是說如果方便的話 比台灣可以協助做意見證集的部分 然後如果是我們之前提到的 我們要連接TWNIC 還有述發部的政策的討論的話 我們也他也都能協助這樣子 他們也都能協助這樣子
+
+[下午07:22:21] 崔家瑋: 是目前跟Nicole那邊討論到的部分 上週末的時候 每次聚會提到這件事情 好大概是這樣 會 我目前預估還是會 就是會先用AI寫自我的方式 把初稿寫出來 然後用人工禁修的方式 禁修完之後再翻譯成英文 並且提供review這樣子
+
+[下午07:22:51] 崔家瑋: 其實還有很多文章還沒有寫 但現在就是這也是要下一個要報告的東西 就是那個電子報的計畫 看比利要不要來跟我們 就是也可以 就是大概分享一下我們昨天晚上討論的事情 還是比你想要我先講 謝謝 謝謝
+
+[下午07:23:10] billy: 誒,我在測試那個紫色麥克風 第一次用不太熟練
+
+[下午07:23:21] 崔家瑋: 我應該是關的 沒關系 它可能不方便 我大概分享一下好了 就是我昨天晚上參加 在相微博的小區的時候 因為在相微博他們的網站會提到 就他們的Notion的Note上面 有提到各式各樣的就是民房啊 還有相關訓練的一些 就是相關的什麼民房聯訓啊 或者是防災室考試啊 這些東西的活動 那我就想說 台灣好像比較少這種 就是不同組織之間的資訊收集 針對這種防災或者是 這種防災室考試啊
+
+[下午07:23:50] 崔家瑋: 就是民房相關的咨詢收集 和整理的一個電子報 至少目前看到的 都是各個組織自己 他們可能會有自己的 每個月的電子報 但是他們這些東西 都是各個組織單一組成的 所以我們就想說 那其實像VTaiwan 像我自己的話 其實也是有在訂閱很多 比如說像是Democracy Next 或者是MetaGov 還有就是People Power的 這些國際上不同 做審議相關的組織 他們的一些活動跟電子報 那我是想說 每次看他們可以做
+
+[下午07:26:34] 崔家瑋: 好
+
+[下午07:27:28] 崔家瑋: 字幕游戲 也可以叫vTaiwan電子報 簡單明瞭
+
+[下午07:27:53] 崔家瑋: 目前初步 我覺得就是以小見大 就是譬如說像我去年 有參加審議人才培訓 還有公共事務的東西 我想算是先從那邊開始推廣 就是說我們有一個新的電子報 然後每周會整理相關的一些 數位工具的應用等等東西 然後頻率可能是一個月 先看看一個月一次的頻率 是不是可行的 然後我目前目標就是 先從短短的開始
+
+[下午07:28:24] 崔家瑋: 因為我發現很多組織的電子報 一次都寫很長 但是我可能就是寫寫一個短短的開始 譬如說像如果是這禮拜的話 我可能就會想要先把 Botainter這個新的工具 直升座的這個新的工具寫出來 然後他就是可以拿來做一個 第一篇素材的一個工具 然後或許Josh你那邊的一些 相關的研究成果 或是你看到的研究成果 你想要分享的話 其實也可以用這個電子報平台來寫這樣子 當作是一種筆記或備忘錄 我的想法是
+
+[下午07:28:51] 崔家瑋: 等周中課
+
+[下午07:30:11] Joshua Yang: 現在可以了 因為我剛剛 這個device可能是沒有MacBook的權限 但是現在我用MacBook錄音的話就可以了 好 Anyway 我剛剛想提的一個意見 就是 就是說我覺得 VT1的每個程序 就是說如果有這樣子的動能 把每個程序串起來就是非常好的 但是我覺得可能最大的問題 就是社群
+
+(自動翻譯)
+現在已經可以使用了。剛才那台裝置可能缺少了 MacBook 的授權，但現在改用 MacBook 錄音就能順利進行。總之，我剛剛想到一點意見：我覺得 VT1 的每個流程若能夠有這種「動力」並將各流程串接起來，效果將非常好；不過我擔心最大的問題可能來自於社群。
+
+[下午07:30:45] Joshua Yang: 不一定有足夠的動能 在每個時候都可以 去把每一個環節串起來 那我只是在想 可能之前也有提到這件事情 上兩三週前 假如說有類似的機器人 然後去不管是現在有什麼議題 找出現在的議題 然後開Polus 做Sensemaking的整理 然後把這個東西直接
+
+(自動翻譯)
+不一定有足夠的動能，在每個時候都能把每一個環節串起來。  
+那我只是在想，也許之前已經提到過這件事。  
+兩三週前，假設有類似的機器人，無論現在有什麼議題，我們先找出目前的議題，再開 Polus 做 Sensemaking 的整理，然後把這個東西直接……
+
+[下午07:31:14] Joshua Yang: 社群 就直接回饋到 不管是我們的 communication的管道 不管是電子報啊 或者是medium啊 或者是發thread啊 Twitter啊 假如說 這個整個程序 是有一定的自動化在的話 可能整個社群或者是整個關注的 程度就很不一樣 像是其實 我上個禮拜在想 我就看到
+
+(自動翻譯)
+社群的回饋會直接反映在我們的各種溝通管道上，無論是電子報、媒體、發佈討論串還是Twitter。若整個流程具備一定程度的自動化，整個社群或關注程度就會大不相同。其實，我上週在想，看到…
+
+[下午07:31:40] Joshua Yang: There are many people talking about India's移民 to Taiwan's war There are many people talking about The most important thing is VT1 is this time There is a lot of There is a lot of It's not a lot of VT1 is not a lot of VT1 is not a lot of But if it's If it's It's a lot of and social dialogue There is a lot of Thank you.
+
+(自動翻譯)
+現在有許多人正在討論「印度移民到台灣」的衝突。有人認為此時最重要的是VT1的角色。雖然有些人指出VT1並不多，但若真的有許多投入，將會引發大量社會對話。感謝大家。
+
+[下午07:32:15] Joshua Yang: It's a good thing It's a good thing But now Like Bastion You can do that It's kind of like You can do it You can do it You can do it You can do it It's like You can do it It's like all these principles You can do it For the days It's like It's like We have the power It's some easy We have the power We have the power We have the power We're still here
+
+(自動翻譯)
+這是一件好事，這才是真好事，可是現在的情況就像波士頓一樣，你可以照這樣去做。它拿來跟你說「你可以這樣做」，像所有這些原則一樣，你也能照這個方式去做。這些日子裡，我們也好像擁有權力，事情也很簡單──我們擁有權力，仍然在這裡。
+
+[下午07:32:45] Joshua Yang: So maybe we can see what we can do Like we can use AI bot or openclaw to create such a way of creating a process So this is what we can do VTileans can be just because of the process of creating a process And then the process of creating a process is just going to be able to create a process I don't know if you have any thoughts possible
+
+(自動翻譯)
+因此，我們可以先思考自己能做什麼。舉例來說，我們可以利用 AI 機器人或 Open Enclaw 這類工具，協助建立流程的方法。這便是我們目前可行的選擇。
+
+至於 VTileans，似乎只是因為構建流程本身的特性，最終只能產出單一流程；也就是說，流程的建立往往是循環式的。若您有其他想法或建議，歡迎再提出。
+
+[下午07:32:50] Joshua Yang: Cush.
+
+(自動翻譯)
+庫什。
+
+[下午07:35:23] Bestian: 請不吝點贊 訂閱 轉發 打賞支持明鏡與點點欄目
+
+[下午07:35:36] Bestian: 這些元素讓設計師可以很快的開一個Police 把這些東西復制貼上 其實也算是半自動的可以增加效率
+
+[下午07:35:52] Bestian: 就可能要看就是不太熟悉
+
+[下午07:36:37] Bestian: 可以介紹一下 因為實際上跑一支報告需要的時間比較長 所以我就直接說明跟直接伸出來的報告的 直接看就好了 它的程式庫的也是有在Github上 我把連接先 我是不是應該分享熒幕 視床
+
+[下午07:37:07] Bestian: 應該是這樣看得到嗎 OK 對 現在這邊基本上它的說明 我主要是寫在ReadMe裡面 就是說這個分支 它是讓使用者可以用地端的LMStudio 這是最新的改良 用LMStudio的方式 就可以用
+
+[下午07:37:36] Bestian: 成本高效能 這是不用錢啦 只要驗就可以了 就可以自己跑那個一線中整齊 然後可以自己輸出的語言 然後新的腳本是有一支叫做 runlocalhtmlreport.sh 只要一個腳本就可以 把police上面的資料匯出 然後產生完整的互動室報告 那他的腳本的那個參數
+
+[下午07:38:05] Bestian: 附設定的寫法也都寫在腳本裡頭 然後有一些范例 就是說在那個Police的 就是報告頁裡面它會有data 就是匯出原始資料的一個base url 只要把base url取代成你自己的base url 就可以從那上面去抓住 然後開頭啊 然後輸入一些要呈現在網頁上的東西
+
+[下午07:38:37] Bestian: 跟Additional Context 然後選擇你在LM Studio上面開的Model 然後就可以跑 那實際上跑出來的結果 它就會變成一個漂亮的網頁 就是像Jorge之前講的 就是說原本在Mac.v Taiwan 那個Web UI能呈現的報告是全Markdown的系碼 那現在如果是可以用網頁的格式的話 它就會變得相當的視覺化 在Model Corea Corea Corea Corea
+
+[下午07:39:05] Bestian: 適合一般的使用者去觀察這樣子 所以比方說它就可以變成一個 它是一頁式的HTML 但是它是在一個 裡面包一個Angular的前端 所以它看起來就是一個完整的互動式網頁 然後就會有一致性高的 一致性中的等等 然後每個部分可以展開 那
+
+[下午07:39:36] Bestian: 我把它貼到這次供筆裡面的這個報告實地裡頭去 那這個我覺得相當使用 因為我自己在那個自主學習促進會 然後我們對台灣的非學校社群的現況 一講話在十年前左右就開了一個police 然後一直有open到現在還沒有close掉 然後那個police就是已經被忽略一陣子了 但是最近就是因為這個
+
+[下午07:40:06] Bestian: Making的報告的關系 可能就可以重新活絡起來這樣子 所以我覺得 我覺得如果 之後 有些議題要開的話要生成報告然後要對一般的 不管是要在 社群媒體宣傳或什麼的能夠 能夠把它放成報告那這個報告因為它是一頁是HTML所以你可以把它放在 vTaiwan的Public資料夾裡面然後取
+
+[下午07:40:18] Bestian: 黨名 那這個黨名就可以 讓人家直接從vTaiwan裡面點到 一份報告去這樣子 就是可以針對每一個近期的議題 都開一份報告 大概是這樣
+
+[下午07:40:56] Bestian: 然後另外補充一下 因為它是用盡端的 LM Studio的工具 它是一個在本機執行大語言模型的工具 這樣的話 雖然它是可以讓你低成本或者是免成本的執行SenseMaker 但是它會牽涉到你的進度
+
+[下午07:41:06] Bestian: 端端算力機的速度 也就是你的端端算力機速度越快 你跑的就越快 但是端端算力機給的速度越慢的話 這個報告生成可能就需要要等比較久一點 大概是這樣子
+
+[下午07:41:50] Bestian: 地端模型的話 就是它 就是完全牽涉到算力機的速度 如果算力機的速度夠快的話 那個感覺大概也是在 十幾二十分鐘之內 可以把報告省出來 但是它的差別是它的 就是並行處理的速度會沒有 就是它能夠同時處理的速度 會沒有淫端的差 因為淫端的話 它其實本來就是設計 然後就會一大堆Undermand Request
+
+[下午07:42:16] Bestian: 然後去接收回應 可是近段模型的設計通常是序列式的 對於這樣子的話 把SenseMaker的一些比方說分類啊 貼標記等等的功能 改成序列式的時候 它跑的就會比原本的慢一些 這是我覺得是可能是免不了的 因為它在近端 它就是會從並發變成序發這樣子 就是並列式的發送request 變成序列式的發送request
+
+[下午07:42:54] Bestian: 對,產出的品質的話,你在盡端選一個比較好的模型,產出的品質其實是沒什麼差別,像這次用這個模型,這個是之前Audrey跟我講的,雖然我也不認識這個模型,但是他說這個模型不是用了這樣子
+
+[下午07:43:31] Bestian: 那可以換成用GPT OSS 120B或之類的 就是 就是在LM Studio上 可以去載很多不同的模型 在地端上跑 看你的算力機載了什麼模型 就可以用它在地端上跑 所以它不是限制一定要用哪一個特定的模型 它有點像Open Router 但是它是在那個近端 你下載了模型 下載什麼就跑什麼這樣子 上載 稿
+
+[下午07:43:41] Bestian: 哦,對啊
+
+[下午07:44:24] Joshua Yang: You
+
+(自動翻譯)
+你
+
+[下午07:44:27] Bestian: 我想Tim的意思是說雖然在資安上面應該是沒有顧慮 但是Peter的意思是說雖然資安沒有顧慮 但是報告生成會不會被原模型本身訓練的意識形態給引導 這個可能是需要考量的 但是如果真的在使用的時候 我會建議說如果有這個顧慮的話 就下載比較中立的模型 比方說
+
+[下午07:45:38] Joshua Yang: I think it's pretty cool Quinn is it's a little in the language of the language It's pretty good But if you use the information on the English There will be a lot of information on the screen It will be a little bit of a little bit of a response of the response There is a lot of time But actually if it's not and then they will get a little bit and they will get a little bit
+
+(自動翻譯)
+我覺得它相當酷，尤其是對於語言處理來說。整體上功能還不錯，但如果你把資料用英文輸入，螢幕上會顯示很多文字，回覆會變得比較簡短，且會佔用較多時間來處理。其實如果情況跟之前不是那樣，使用者可能只能得到有限的資訊……
+
+[下午07:46:04] Joshua Yang: but it is true that it is related to his training but I think if it's not a very敏感 of a discussion like I think about this topic it might not be a big impact but if it's really related to the political position this is a考量 what kind of approach will be different because they have a particular discussion and they have a particular discussion
+
+(自動翻譯)
+確實如此，這跟他的一段訓練有關。但我認為，如果這不是一項非常敏感的討論，就像我對這個議題的看法，那它可能不會造成太大影響。相反地，若真的牽涉到政治立場，採取的方法與考量就會有所不同，因為那裡存在著特定的討論。
+
+[下午07:46:22] Joshua Yang: So that's the point of view That's the point of view But I think a lot of things I don't think it will have a lot of impact So I can see it
+
+(自動翻譯)
+這就是我的觀點，這就是我的看法。但我認為許多事情不會產生太大影響，因而我能看到它。
+
+[下午07:46:40] Bestian: 謝謝 Josh 然後那個另外就是在GitHub上已經把那個范例的HTML報告 生成出了英文、德文、西班牙文、法文、日文跟簡中跟正體中文 都有范例的報告在上面了 所以目前是支援這七種 對啊 韓英文算是七種語言這樣子 都可以當作報告的人
+
+[下午07:46:49] Bestian: 原始的題目不管是什麼語言,你都可以讓報告生成成另外一種語言,這樣子。
+
+[下午07:47:31] Joshua Yang: I think it is really good and pretty good I just wanted to ask if you can like this report, whether it's a English or a Chinese language and then put in a website in Taiwan like Peter if you want to talk about the presentation
+
+(自動翻譯)
+我覺得這份報告真的很不錯。只想問你是否也喜歡，無論是英文或中文版本；我打算將它發佈在像 Peter 這類台灣網站上，如果你想在那裡談論或發表演說。
+
+[下午07:47:37] Joshua Yang: It's just how it's going to be able to open this website
+
+(自動翻譯)
+這就是它能開啟這個網站的方式。
+
+[下午07:47:55] Bestian: 可以啊 我覺得就可以放在VTaiwan底下 然後它要叫什麼名字 比方說SenseMakerReportExample 就是說它的名字如果不需要很短的話 那我就把它叫做SenseMakerReportExample 然後這樣子連到VTaiwan.tw的這個位置 就可以看到這樣子
+
+[下午07:48:14] Bestian: 這個范例的題目好像是關於大家對AI的看法
+
+[下午07:48:25] Joshua Yang: Oh, I think it will be quite useful, yes. And now, the report.html is which topic? This is a topic. So this is a topic?
+
+(自動翻譯)
+哦，我覺得這非常有用，是的，現在報告.html屬於哪一個主題？這是一個主題。
+
+[下午07:48:52] Bestian: 不是 是之前 LumCivic AI Report 是之前就是 Audrey的某一個相關的題目 他在英國報告的時候 拿這個新的SenseMaker去做範例 然後這個分支 就是用MStudio的分支產報告 本來是他撞的功能他自己可以用 然後他跟我講說 可以把它改良成是 比較
+
+[下午07:48:56] Bestian: 善善的多語言的然後讓大家都可以用後來我就把它做改良這樣子
+
+[下午07:49:24] Bestian: 但是如果是離台灣要做范例報告 我是覺得可以拿Uber來當例子 就是之前的Uber的Police 對 對 就之後跑個Uber這樣子 Peter你的麥克風沒開
+
+[下午07:51:56] Joshua Yang: So, let's get started.
+
+(自動翻譯)
+所以，讓我們開始吧。
+
+[下午07:52:10] Joshua Yang: You
+
+(自動翻譯)
+你
+
+[下午07:52:24] 崔家瑋: 的緣起是什麼 那我們緣起很簡單 就是在這種極化的時代底下 其實大家要對話的可能性越來越低 用agent來對話搞不好是一個可能性 收集意見來對話 然後是一個可能性 那就是去講這樣子的一個成果 然後我們在過程當中 其實也發現一些有趣的對話的可能性產生 然後同時我覺得最重要的事情是 他其實突破了以往 VTaiwan接觸多元利害關係人的方式 接觸到更多不同的年齡層跟階層的人 下次再見
+
+[下午07:52:55] 崔家瑋: 所以我覺得我們可能要講的事情 它是一個pilot的概念 就是因為它之後要怎麼樣去確保 確保它的agent是align with它的principle 就是代理人是怎麼樣跟它的本人是合一
+
+[下午07:52:58] Joshua Yang: Yeah, I think I think we're talking about a little bit more because there are people who think it's the meaning of what's going on if you don't have to be able to participate So Yeah, the experience Yeah
+
+(自動翻譯)
+是的，我認為我們討論的其實比原先想像的還要多一些，因為有些人認為若你不必參與，體驗就會產生不同。
+
+[下午07:53:24] 崔家瑋: 我覺得這件事情是 覺得就是可以去做分 就是說這個東西是 目前做出來是有有趣的東西的 可是要怎麼樣做這件事情 確保alignment的狀況 會是下一個課題 那大概就是用這方式來做分享
+
+[下午07:53:25] Joshua Yang: I think one of the things that we can watch is that we have a sense making report and we can let these agents
+
+(自動翻譯)
+我認為我們可以觀察的一件事是，我們擁有一份意義重大的報告，並且可以讓這些代理人…
+
+[下午07:53:55] 崔家瑋: 可以啊 我覺得自己試試看 我覺得是可以 我覺得這是一個好的呈現方式
+
+[下午07:54:00] Joshua Yang: to talk and then to填 a kind of policy and see if we can make sense making report and then use agent to do a整理 that you can show it that you can look at it and say agent in what you're doing I don't know if it's not a good way to show it
+
+(自動翻譯)
+先說明情況，接著填寫相關政策，檢視是否能編寫出有價值的報告；之後再委託代理人協助整理，將整體成果呈現給您。您可自行查看，並說明代理人當中執行的工作與角色。這樣的呈現方式是否適合，我尚不確定。
+
+[下午07:54:25] Joshua Yang: 如果是5月中的話應該是有機會 對
+
+(自動翻譯)
+如果是五月中旬的話，應該會有機會，對嗎？
+
+[下午07:54:26] 崔家瑋: 那就是看 Josh你那邊可以花多少 需要花多少時間來處理這件事情 如果不會花太多時間的話 我覺得可以試試看 好啊好啊 我們接下來可能 也順便跟大家講一下 就是下週的時候 下禮拜三晚上有事情 所以我們下週的 可能VT1上線的時間 不知道大家週四或週五是比較方便的嗎 如果是排在週四的晚上 OK的嗎
+
+[下午07:54:55] 崔家瑋: 4月20 4月30號 就是4月的最後一天 Tim ok Alison can you do it on Thursday You can type out your answer in the chat box 看Batson跟Josh 還有Billy有沒有辦法 下周四的晚上
+
+[下午07:55:25] 崔家瑋: 好啊好啊沒關系 就位上線 好那如果可以的話 有一件事情是因為我們之前有一個 在大松上認識的英國人 他上周沒有上線 不過他
+
+[下午07:55:28] Joshua Yang: Thank you, Bastion. Thank you, Bastion. Yeah. I haven't seen it yet. But you can just talk about it. And then you can give us a demo. Thank you.
+
+(自動翻譯)
+謝謝你，巴斯頓，謝謝你，巴斯頓，謝謝你，謝謝你，謝謝你，謝謝你，謝謝你，謝謝你，謝謝你，謝謝你。
+
+[下午07:55:57] 崔家瑋: 上上走有來就是那個 Heward Mills 他等一下也會進來聊聊天 然後我是因為我等一下8點半有事情 所以我大概把 你要離開 我剛才講說我們今天可能大家有事情 對啊 所以就請他說 我請他加入Ginni Media Slack 這樣子 對好 然後那我們就最後就拍一張合照 然後大概就結束今天的小劇這樣 然後大家如果想要補什麼東西 在共筆上 不管是想法等等的 都歡迎補在上面
+
+[下午07:56:02] Joshua Yang: 嗯 啊 等一下 可是 我也要離開了耶 哈哈哈 啊 OK OK oste店 駕咕 o roster 駕咕 P 駿呀 駿呀 駛駛 駛駛 駛駛
+
+(自動翻譯)
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+
+[下午07:56:25] 崔家瑋: 然後目前要做的事情 其實第一個就是電子報的計劃推進 然後第二個就是 VTaiwan的前世青春的東西推進 然後第三個就是 那個企劃書的部分 針對TWNIC企劃書的部分 就是我目前在跟逸廷做討論 然後預計就是4月30號會提供出去 但是上周討論的內容其實已經算完整了 對然後代理就是 TWInternet Week TaiwanInternet Week的部分就是麻煩Josh協助 不過 反正我會把那個報告
+
+[下午07:56:26] Joshua Yang: No?
+
+(自動翻譯)
+請問您指的是什麼？如果有任何想了解的地方，隨時告訴我喔！
+
+[下午07:56:55] Joshua Yang: Thank you.
+
+(自動翻譯)
+謝謝你。
+
+[下午07:56:57] 崔家瑋: 簡報的部分給完成 然後我跟Josh一起完成 然後反正就是我只是不能上去講而已 但是Josh可以上台分享 然後也可以順便demo一下 那個就是公民審議大會的agent的結果 這樣子 好感謝大家 那我們就拍一張合照咯 來久違的又見到了Action 覺得開心 好來再一張哦 來3 2 1 然後再三
+
+[下午07:57:26] 崔家瑋: 3,2,1 OK,好,感謝大家 拜拜 拜拜 拜拜 拜拜,Bestian,拜拜 好久不見,拜拜

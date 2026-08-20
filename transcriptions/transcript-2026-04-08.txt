@@ -1,0 +1,162 @@
+[下午07:15:30] Allison Shan-Ping Ni: So there's seven problems mentioned in the AI risk of AI government system and the first risk. There's seven problems. The first problem is that everyone's using the same AI model, so you're not going to be that creative and then everyone's going to have the same way of thinking and selling the same. The second problem is that AI is not.
+
+(自動翻譯)
+因此，AI 政府系統的風險與上述提到的七項問題皆相符。第一項問題是：每個人皆使用同一套 AI 模型，這會限制創造力，結果每個人的思考方式與銷售方式都會趨於相同。
+
+[下午07:16:00] Allison Shan-Ping Ni: challenging you it's like an over being overly encouraging and making you happy and agree with you and the third one is where they spam the government which is the bully homo-genozization thing and then the fourth one is a fake check generate a bunch of fake
+
+(自動翻譯)
+挑戰你：這種做法像是過度鼓舞人心，讓人開心並容易同意。第三點則是他們向政府發送垃圾郵件，屬於對同志族群的種族化霸凌。第四點是偽檢查造成的一大堆假資料。
+
+[下午07:16:27] Allison Shan-Ping Ni: content. And then the fake content. And then the next problem is the blind rule following where governments or companies that use AI, they let them make all the decisions. So humans can't really
+
+(自動翻譯)
+接著是虛假的資訊，下一個問題是盲目的規範，政府或使用人工智慧的公司讓他們作出所有決策，於是人類實在無能為力。
+
+[下午07:16:58] Allison Shan-Ping Ni: understand why the ai made the choices and it's like you're blindly following the ai yeah and the next problem is that when they buy
+
+(自動翻譯)
+了解 AI 做出選擇的原因，就像你盲目跟隨 AI 一樣，對嗎？接下來的問題是他們在購買時…
+
+[下午07:17:30] Allison Shan-Ping Ni: when the government buys an ai system you're not sure of what exactly is in the ai like you don't know if there's any rules or like programs or things hidden by the tech company that built it so you have to be really careful to what you're letting in and then the last the last problem is that um when ai starts
+
+(自動翻譯)
+當政府要購買一項 AI 系統時，你不確定這個 AI 具體是什麼，因為你不知道是否有相關法規或類似程序，或是潛伏的科技公司所打造。於是你必須格外小心，先確定要納入系統中的內容。最後一個問題是：AI 啟動之後會發生什麼？
+
+[下午07:18:00] Allison Shan-Ping Ni: taking over jobs and like communication citizens like lose the power to keep the institutions institutions in check because they lose the bargaining power since the government needs humans labor and cooperation but when all of those are gone and replaced by ai citizens like get less and less power and say
+
+(自動翻譯)
+隨著機器取代許多傳統工作，民眾像網路公民一樣渴望脫離舊有權力結構，以維持機構的掌控。然而，他們也正失去談判的籌碼，因政府仍需人類勞動與協作。在這一切被人工智慧公民所取代的未來，原本擁有權力的人將逐漸失去話語權，權力隨之被侵蝕。
+
+[下午07:18:15] Allison Shan-Ping Ni: Thank you.
+
+(自動翻譯)
+謝謝你。
+
+[下午07:40:42] 崔家瑋: 好 呃 算沒關係 就是我們跟TWNIC的合作 我們會延續之前的討論 是跟AI governance有關 然後延續書發部的政策方向 目前書發部做的所成果有 兒童 性別 與人權 但人權我覺得是一個很廣義的一個說法 那VTaiwan
+
+[下午07:41:16] 崔家瑋: 往 maybe具體的情境下去做討論 譬如說他們的這三個裡面 我們各個挑一個具體的情境 然後TW 對請說
+
+[下午07:41:47] 崔家瑋: 確實是這樣 其實我們可以現在來看第一份 這一份是額紹保護的措施 我們它前面的花分 有 我現在分享給大家了 這個就是這個報告 但它們沒有
+
+[下午07:42:19] 崔家瑋: 他們時間蠻短的 然後他們的能夠取材的 Methodology的方法也比較受限 我覺得蠻合理的 就是應該說因為 AI基本法在去年的12月左右通過 然後應該去年的10月左右通過 然後12月公布 通過後一個月公布 所以等於是他們是公布之後 才allocate budget來做這件事情 所以他們 然後這份他們三月發布 那三月發布之前 他們要先進過二月的院會 他們才能夠 他們要
+
+[下午07:42:55] 崔家瑋: 這二個月就已經完成了 然後他們才能夠趕在三月 把這個東西交出來 所以他們的實際的整個working的時間 大概只有一個多月而已 比我們用polis價還短 對 所以確實是這樣 他們目前是整理出了幾個應用場景 AI在 我看一下 AI在兒童和校相關的部分上 好
+
+[下午07:43:19] 崔家瑋: 第一個是就是education的background 就是數位學習的部分 包含個人化的學習平台啊 然後生成是AI查詢知識啊 AI階梯跟++app 學習歷程追蹤 然後自動的批改作文啊 生成學習診斷的報告 然後第二個是跟 下面的圖表我覺得蠻有趣的 它下面的那個圖表是 他征詢外部專家的 所提的意見 然後等於是他們找外部
+
+[下午07:43:50] 崔家瑋: 做評分啦 然後他們的評分的話 是用影響程度的平均 跟發生可能性的平均來看 然後發現這個 就是等於是影響程度高跟發生成 就是越往左上方 越往右上方走 它就是一個影響程度越大 然後發生頻率也越 那發生的可能性也越高的一個方向 對 那目前看起來 對 有點像日常Questionnaire給專家
+
+[下午07:44:20] 崔家瑋: 來評分 原始的data 沒有試出來 我這邊沒有看到 它後面有附嗎 它後面只有附 這個問卷的 的的的的的的 范例 對
+
+[下午07:44:48] 崔家瑋: 對 沒錯
+
+[下午07:45:20] 崔家瑋: 嗯 嗯
+
+[下午07:45:56] 崔家瑋: 誒 你講的是Agora嗎 是這個服務嗎 對 好像好幾個不同的服務都叫Agora 誒 誒 誒 誒 誒 誒 誒 我好像看到光是瑞士那邊就有兩個專案叫Agora了 誒 誒 誒
+
+[下午07:46:21] 崔家瑋: 哦 兩個不太一樣
+
+[下午07:46:52] 崔家瑋: 這個之前有看過 這個好像是可以導入的
+
+[下午07:47:25] 崔家瑋: 對 同意 我覺得可以試試看 這蠻有趣的 確實因為現在講的東西
+
+[下午07:48:02] 崔家瑋: 大家做好fuscitation前的那個資訊的alignment 還有就是等於是資訊的 這個叫什麼 integrity information integrity的工作
+
+[下午07:48:28] 崔家瑋: 同意
+
+[下午07:48:59] 崔家瑋: 嗯 嗯 嗯 嗯 嗯 嗯 嗯 嗯 嗯 嗯 嗯 嗯
+
+[下午07:49:29] 崔家瑋: 沒有啊 我覺得如果要應用的話 我們就導入啊 我覺得 但是這個可以寫到proposal裡面 就是說我們想要程式一些不同的工具 然後如果Jush 你那邊可以協助connection的話 那我們或許真的可以
+
+[下午07:50:00] 崔家瑋: 試試看 然後等於是把它用在TWNIC的活動裡面 因為如果這個工具 可是重點是這個工具它有繁體版 然後還有一個問題是 就是TWNIC它有一個許願的方向是 它希望我們行有余力的話 但好處就是它會支持這個預算 就是它希望我們行有余力的話 把這個活動辦到東部去 他們很在意就是 台灣東部花蓮
+
+[下午07:50:40] 崔家瑋: 花蓮或台中 對啊 就是這樣子 然後他們好像很希望我們 可以做到這件事情 雖然我覺得挑戰蠻大的 特別是 與我們之前的經驗 就是等於是你在台北 要舉辦這樣子的一個活動 其實就會有一點難度了 但是你現在要把它拉到東部去 然後東部的話 可能就是要了解 大家對於這件事情的看法是什麼 謝謝
+
+[下午07:51:00] 崔家瑋: 如果是東部的話 或許我覺得可以跟學校老師合作 就是如果是兒童議題的話 或許兒童或性別議題的話 就可以跟學校老師合作看看
+
+[下午07:51:30] 崔家瑋: 沒有他們希望我們活動 是把它engage到東部的人 我覺得西達Munik的概念 一直都是他們很希望可以 因為他們是做網絡的 然後他們一直很希望做到 應該說multi-stakeholder 那multi-stakeholder的話 當然你可以說的 就是其中的那個diversity 就會包含除了那個 人就是
+
+[下午07:52:01] 崔家瑋: 人種啊或者是文化的diversity之外 當然還有地域的diversity 就是但他們的engagement的對象一直比較多 當然因為畢竟他們就在北部嘛 所以他們engagement的對象一直比較多都在北部 然後他們好像一直對東部有一個蠻想要做的事情 不過這個是後話 我們先辦成第一場活動 我們再來推推看 因為如果可以的話我們就是先從 就是第一場活動開始談這樣子
+
+[下午07:52:31] 崔家瑋: 我的想法是這樣 Deadline就是 第一個出版的 等一下 Deadline兩件事的Deadline 那兩件事情 因為目前的第一個Deadline 4月30號這個Code 主要叫 Deadline的Deadline
+
+[下午07:53:04] 崔家瑋: 市民模擬搭配的報告 預計也是在5月初的時候要完成 就是它其實時間會高度的重合 但這個好處是我們就寫一個簡單的 proposal就是我們想要達到的目標是什麼 然後我們預計的方向是什麼 因為目前的主題的方向應該 就是延續書發部所做的執行的成果 比如說兒童的部分 然後這個部分可能就是 兒童的部分 依莎貝爾特別跟我說 就是兒童的這個請各不同
+
+[下午07:53:34] 崔家瑋: 會蠻重要的 就是這些他們做出來的這個 譬如說他們已經做了這個 額哨風險情境矩陣圖嘛 那我們或許就可以從 他們情境矩陣圖中標比較 大的部分來做處理 就是譬如說關於 這個身為冒充性身份詐騙 或合成性影像勒索的這個部分 還有AI生成散布 額哨不實內容的這個部分 或釣魚訊息影響額哨的這個部分
+
+[下午07:54:06] 崔家瑋: 我們想要做到 我們這三個題目我們來討論 那它的好處就是 我們就可以直接說 OK我們現在的這個討論的題目 它其實是延續了 述發布之前做的這個報告 然後我們辦法做更深入的討論 然後那在議題設定上 就已經有一個狀況 那就已經有一個可以設定的方向 那接下來的話就會繼續走 就走說就是 那我們接下來針對這個部分 我們想要怎麼做 那這個對這個部分的話 我也有認識的朋友 就可以協助我推薦一些相關
+
+[下午07:54:35] 崔家瑋: 可以讓他們一起來做這一起來就是想思考這件事情 好那我們目前的方向可能就是這樣 對但是讓AI生成種子意見這件事情我有點持保留太多 我還在想這個種子意見要透過什麼樣的方向來產生 比如說如果從這個報告出來然後我們去
+
+[下午07:55:11] 崔家瑋: 但訪談的部分或許可以直接讓AI來做整理 然後透過訪談的方向來產生種子意見 就除了這樣 譬如說跟 像台灣其實有好幾個NGO都在做 額效性影像相關的東西 對 可是種子意見跟 就是我們目前的意見是只有涵蓋到
+
+[下午07:55:42] 崔家瑋: 專家的意見 他是做出來這個風險矩陣圖的部分 但是我目前還沒有辦法從 這邊的這個資料當中去得出說 大家對於這件事情的總之意見是什麼 譬如說我剛想到的幾個點 就是身偽冒充身份詐騙 或合成性影像熱索 它其實就有一個問題是 那這個身偽的這個技術 因為其實之前英國的一些 英國的研究 我覺得是劍橋吧 他們的研究就是說 我這種身偽的
+
+[下午07:56:11] 崔家瑋: 性影像勒索的合成 它其實很多是來自於 open source的圖片生成 或影像生成的AI model 它就引發一個討論 我們到底要不要針對 open source的這種AI model 去做更強烈的管制 就是比起一般的AI 一般profitatory必源的AI model 做更為嚴格的管制的問題 因為很多性別的團體 在英國
+
+[下午07:56:42] 崔家瑋: 他們是希望對AI model做更嚴格的管制的 但歐盟的話是歐盟的AI Act 因為我們目前的研究主題就是這個 歐盟的AI Act他們的做法就是 如果你是open source的model的話 那你其實是獲免於一部分的透明度義務的 他們就認為說你都已經open source的 你已經把對你的東西都已經 程式碼資料集的資料權重都已經公開了 那你其實就不需要再滿足歐盟的
+
+[下午07:57:11] 崔家瑋: 法律義務 除非你有所謂的systematic risk 就是系統性風險 沒錯 我原本想法是我們透過訪談 就是跟專家做訪談 訪談完之後 然後我們把訪談的內容丟到 等於是主制稿生產出來之後 訪談後有主制稿 然後主制稿生產出來之後 我們從這個主制
+
+[下午07:57:42] 崔家瑋: 當中整理出中資意見 或者是直接請專家提供中資意見 這樣子 有一個方法就是我們直接 問數發部那邊他們當時找的專家是誰 我既然應該有專家名單 然後 其實也是 那我們也可以直接引用這邊的 就是針對這個風險的專家意見去進行處理 對吧 然後也可以把這邊的政策
+
+[下午07:58:17] 崔家瑋: 接納到中子意見裡面去 就說這些政策 然後我們可以透過 對對對 好啊 這個方向不錯 那這樣的話 甚至就不用再多這一步的方向 感謝Josh提醒我 延期 兒童 承襲 兒童 兒童 兒童 兒童
+
+[下午07:58:45] 崔家瑋: 換一下換個耳機 喂有聽到嗎不好意思 剛換了耳機 好謝謝
+
+[下午07:59:15] 崔家瑋: OK
+
+[下午07:59:50] 崔家瑋: 可以 我覺得這都可以 沒問題 好 OK 那我們今天的討論 我想一下 我等一下把模擬視頻的部分 做數據分析的部分 記上去 然後 等一下8點的時候 應該會有一個 Cembridge 的 研究員 還會上線 對 有一個外國人要上來 我們可以 我們可以 我們可以
+
+[下午08:00:17] 崔家瑋: 他蠻有趣的 因為他很熱情 就是他在台南的黑客松 聽到我的提案 講那個News Agora 就是我在做的那個 串AI機器人的那個東西之後 他就上來跟我攀談 然後就說他在英國的公司 也在做類似的東西 但他的服務是 他的服務是比較接近於是說 譬如說那種很大的企業組織 他們在開那個什麼All Hands 或者是大型的內部會議的時候 他們可以迅速的
+
+[下午08:00:50] 崔家瑋: 做collective intelligence的分析 但是我怕聽到什麼 它叫做 它叫做 Roth K-Word Millis Are you ready? 它想要了解說 就是它想要share 它自己目前在做的事情 然後它也想要知道 我們目前這邊的狀況
+
+[下午08:01:17] 崔家瑋: 在發展的東西是什麼 那我拍拳還不會上 因為我剛剛把連結傳給他 還有讀到 他好像要加進來了 我先開一個 我先開一個新的頁面 就是跟他 新的chapter 跟他解釋一下 就是這個 expression的部分 怎麼了嗎 還好嗎
+
+[下午08:01:50] 崔家瑋: 你等一下要開會嗎 不好意思 因為我應該有把這個資料貼到slake上 只是大家可能那時候可能沒有看到 就是有說那個會不會上線 他好像要上線了 但我們等於他是說 也不一定要聊很久 我們可能先簡短的聊一下 然後如果你想離開的話可以先離開 但我目前的 plan 是我會待到大概8點20到8點半左右 然後之後
+
+[下午08:02:18] 崔家瑋: 請他可以早一點上線這樣子 但他不知道他現在在哪裡 聽跟Alison如果要先下線的話沒關系 Alison如果你想要加入還可以 This guy is from Cambridge And she is developing the similar tools as well Yeah So if you are interested in his sharing You can just stay online
+
+[下午08:02:49] 崔家瑋: Eleason do you have yes 我們剛忘記拍照了 聽前下線了 沒關系
+
+[下午08:03:18] 崔家瑋: 感謝觀看
+
+[下午08:03:52] 崔家瑋: 是的
+
+[下午08:07:36] Ralph Heward-Mills: www.gopacific.ai
+
+[下午08:13:38] Ralph Heward-Mills: solidproject.org
+
+[下午08:18:28] 崔家瑋: 是它 open source or something?
+
+[下午08:18:57] 崔家瑋: OK Ah,yeah 嗯
+
+[下午08:19:30] 崔家瑋: I think one thing I was thinking about, because I'm about to leave, but I think one thing to think about this, maybe we can explore the potential that
+
+[下午08:20:01] 崔家瑋: 現在的一件事我們正在想解釋, 我們是有什麼用途的用途 去做我們的全體, 去做我們的全體, 這是一件事, 因為它其實 means 我們可以擁有不同的用途 into the process based on what we are needing or what we are needing yeah but how
+
+[下午08:20:28] 崔家瑋: the data is scattered away from different kinds of services so how to using the services but also can store data in the same places or how to make the you know what code knowledge graph into this kind of thing is very important and also for some scenarios I think we also need the knowledge graph for the issues as well to make people more understanding about the and able to do the information
+
+[下午08:21:00] 崔家瑋: 所以這些是兩檢測試的 我們的檢測試圖和MellotGraph 我們的檢測試圖
+
+[下午08:21:29] 崔家瑋: 請不吝點賞支持明鏡與點點欄目
+
+[下午08:21:59] 崔家瑋: 是的
+
+[下午08:22:29] 崔家瑋: 謝謝觀看
+
+[下午08:24:00] 崔家瑋: 謝謝觀看
+
+[下午08:24:30] 崔家瑋: 感謝觀看
+
+[下午08:25:01] 崔家瑋: I'm sorry I have to leave but I want to have like a we can take a group photos through screenshots and I can send you later as well so please open your camera Alison if you're not able to open your camera it's okay so I'm going to take a photo with all you guys so it's
+
+[下午08:25:32] 崔家瑋: 玩2.0.0 Rogers Yeah
+
+[下午08:26:03] 崔家瑋: OK OK We take a photo of London
+
+[下午08:26:31] 崔家瑋: OK So One Two Three One more OK One Two Three Great Nice Thank you guys Bye-bye Thank you for coming Yeah
+
+[下午08:26:35] 崔家瑋: 拜拜

@@ -1,0 +1,364 @@
+[下午07:03:42] 崔家瑋: 有聽到嗎 哦有聽到了 晚安 喂 我今天有跟Josh確認 希望他今天可以上線 主要原因是因為我想要聽他 關於分享他那個Hear the Room的一些相關的 營賽 上周比較可惜沒有聽到他分享這一塊 然後還有口頭應允 我們就來看一下我們就來看等一下會不會有人上線
+
+[下午07:04:15] 崔家瑋: 誒 Thompson我剛剛聽到你的聲音 但是好像你要關麥克風了 沒問題
+
+[下午07:04:31] Thompson Lin: 哦 那現在聽得到嗎 好 因為我想問那個紫色的麥克風是 我每次發言的時候我同時要點原本的那個麥克風 然後也要點紫色 對不對 兩個都要一起點 OK
+
+[下午07:04:46] 崔家瑋: 對,沒錯,沒錯,沒錯,沒錯,好啊,等一下看價值會不會上線,我們再等一分鐘的時間,
+
+[下午07:05:18] 崔家瑋: Hello Alison, can you hear me? 跟大家看到的一樣 就是我現在在帶著辦公室的識別證 所以代表我現在是一個社畜上班族 然後反正我現在就是在公司裡面接會一次開會這樣子
+
+[下午07:05:47] Joshua Yang: You
+
+[下午07:05:54] 崔家瑋: 好 那我們就看一下我們有辦法用Github的想象 好 那簡單來說就是非常感謝大家今天晚上還是繼續上線 那我們今天討論的主題基本上來講還是會以幾個目前正在進行的專案為主 第一個專案當然會是我們之前做的那個就是審議
+
+[下午07:07:42] Joshua Yang: So it's Peter's problem. I first asked before, did you test this tool? Tim did you do it? Thompson did you test this tool? No problem.
+
+(自動翻譯)
+所以這是彼得的問題。我先前問過，你測試了這個工具嗎？蒂姆，你做到了嗎？湯普森，你測試了這個工具嗎？沒有問題。
+
+[下午07:08:19] Joshua Yang: I'm just going to add a little bit of the size of the size But did you hear this how to use it? Demo? Okay. Well, in the United States, I think that at least we share They are more concerned about how to use it
+
+(自動翻譯)
+我只想再加一點尺寸，您有聽說過怎麼使用嗎？需要示範嗎？在美國，我以為大家通常會互相分享，重點是怎麼真正使用。
+
+[下午07:08:45] Joshua Yang: how to accept this kind of thing and how to accept this kind of thing So they're not using what kind of tools But we still have to use them to do it And then they feel like it's pretty cool And they have to think about this kind of thing I don't know how Peter's feeling is what's going on But I think it's pretty interesting Because they still have a lot of different kinds of考慮 Just...
+
+(自動翻譯)
+要怎麼接受這種東西？他們不使用任何工具，但我們仍需要用它們完成任務。接著他們覺得那很酷，還得思考這件事。我不太明白彼得是怎麼想的，但我覺得頗有趣，因為他們還有許多不同的考量。
+
+[下午07:09:12] Joshua Yang: Just so So what is it? 
+
+[下午07:09:41] Joshua Yang: In Slack, I mentioned earlier that when I was designing the Hear the Room, I was thinking about how to implement the Mentimeter. So it turns out that there is a lot of improvement on the component. The first is to do Mentimeter and then do Hear the Room. So many things will be repeated.
+
+(自動翻譯)
+在 Slack 裡，我之前提到，當我設計 Hear the Room 時，我正思考如何實作 Mentimeter。因此，這顯示在元件上還有許多可以改進的地方。
+
+[下午07:10:14] Joshua Yang: Especially when you're talking about Mentimeter or Mentimeter or Mentimeter or Mentimeter, you should be able to go to the Hear the Room to vote and vote. This time, I don't have any kind of information. I'm going to look at Mentimeter there's a question and I'm going to look at Mentimeter.
+
+(自動翻譯)
+尤其在談到 Mentimeter 時，您應該能夠前往 Mentimeter 會議室投票。
+
+[下午07:10:45] Joshua Yang: But I was always looking for the Mentimeter Because if I copy and paste it will be easier Because the Mentimeter was in the vTaiwan account And then I was able to do it But this time I don't know Mentimeter is in place So I can't go to the Mentimeter So I can't go to the Mentimeter I can go to the screenshot Let's see what happened What happened
+
+(自動翻譯)
+我一直在找把 Mentimeter 器式直接複製貼上，因為這樣更方便。通常 Mentimeter 會放在 vTaiwan 這個帳號裡，我也能夠這麼做。不過這次我找不到它，無法進入。可以先截屏看看發生了什麼再決定接下來該怎麼處理。
+
+[下午07:11:12] Joshua Yang: Oh Oh Oh 忘記事前 事前先跟你對接好這一點 但是我的意思是說 可以做的事情就是 之後Mentimeter的論點可以直接 也可以用AI去做整理 然後再加進去做 Hear the Room的論點
+
+(自動翻譯)
+我們事先已經跟你確認這點，但我的意思是說，之後可以做的事是把 Mentimeter 的觀點直接整理，或使用 AI 進行整理，然後再加入到 Hear the Room 的論點中。
+
+[下午07:20:14] 崔家瑋: 參與者還是我們 聽那邊不太確定有沒有針對這個Demo
+
+[下午07:22:57] Joshua Yang: but now I'm going to do the whole thing to the end of the政策 because the whole thing is that we talk about what is talking about but there is another way to do is to say if a general public public is to say that a law of law is to say that and the second thing is to say what kind of situation What kind of situation is there?
+
+(自動翻譯)
+但現在我想把整件事做到政策可落實的盡頭。因為整件事是我們討論的重點，還有另一種做法：若一般大眾說法律是這樣說的，接著再說明各種可能的情形。
+
+[下午07:23:21] Joshua Yang: 但是就是大家說可以認可這個但是 然後就是會有一個但是的部分 然後還有最後一個就是 大家沒有辦法目前還沒有辦法解決的部分 就是可能就是現在會 AI counter-ground會有一個是 一般型的 然後另外一個是政策型的 那政策型的就會有這三個 三個部分 讓大家去不斷的去看這個總結 然後
+
+(自動翻譯)
+然而，雖然大家普遍表示可以接受這個方案，但仍有一些疑慮。再者，迄今尚無辦法解決的部分是 AI 在對地級別的影響。此時的 AI 通常被分為「一般型」與「政策型」兩類；其中，「政策型」又包含三個主要面向，大家可以持續觀察並參照相關總結。
+
+[下午07:23:51] Joshua Yang: So if they don't think this is not enough Then they can continue to talk about it Or just in that way to修改 And then add another version of the final version This week I'm going to do this So I think next week I'm going to try to Use different results Because the final version of the final version And I put on a little...
+
+(自動翻譯)
+所以如果他們覺得還不夠好，可以繼續討論，或是只這樣先修正後再再加一版。這週我要處理這件事，想法是下週再嘗試不同的方案。因為是最終版，我已把它放在一個小小的…
+
+[下午07:24:17] 崔家瑋: 我還沒仔細看 但是因為他的Summary要做的怎麼樣 我覺得現在一個問題是 因為他是用來做出來的 所以其實大家很難去驗證說他的Summary 如果你要提到說Summary做什麼樣的話 你感覺還是要去把所有的意見都看過 然後去確保說可能有一些意見沒有被提出來會比較好 所以我其實也不太確定說怎麼做會比較好
+
+[下午07:24:23] Joshua Yang: who saw this summary and thought how did he do it? Wait, Twitter, you said what? Hello? Hello? Hey, I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. Peter Nielsen.
+
+(自動翻譯)
+誰看過這個總結，想知道他是怎麼做到的？  
+等一下，Twitter，你說了什麼？  
+你好？你好？嘿，我很抱歉，我很抱歉，我很抱歉，我很抱歉，我很抱歉。
+
+[下午07:24:47] 崔家瑋: 剛剛的聲音我聽到嗎
+
+[下午07:24:50] Joshua Yang: 可以再說一次嗎 Peter 不好意思我剛才斷掉了 你可以再說一次嗎 你可以再說一次嗎 哦好 Peter 你可以再講一次嗎
+
+
+[下午07:25:23] Joshua Yang: 啊我給我順便剛好趁現在的時間我剛好找到那個這個應該是 是誰誰當天有錄影的然後就剛好看到這個錄影片段 嗯
+
+(自動翻譯)
+啊，我剛好趁這個時間，順便找到了當天好像有錄影的那個人，然後看到那段錄影。
+
+[下午07:25:54] Joshua Yang: Let's see if I can see it. I've got to see it. That's the day of the game of the AI. It's a way to vote. It's a way to vote. It's a way to vote.
+
+(自動翻譯)
+讓我們看看我是否能看到它，我必須見到它。這是人工智慧遊戲的一天，這是投票的方式，投票的方式，投票的方式。
+
+[下午07:26:20] Joshua Yang: to do the整理 and then there's a group, a group, a group, a group, a group That's not the same thing But you can agree with what kind of things and what kind of things is the main difference I don't know if you think about this kind of整理 How can it be better?
+
+(自動翻譯)
+把資料先整理好之後，就會得到一組、一組、一組……。這些組別並非相同，然而你可以同意哪些事物與哪些事物之間的主要差異。我還不確定，如果你想把這種整理方式做得更好，該怎麼規劃才合適？
+
+[下午07:26:55] Joshua Yang: Hey, have you heard my sound? Okay, here we are talking about AI共識 and the other side is good, and the other side is not good and then we can vote for it and then we can vote for it and then we can end up with it but if everyone thinks that it.
+
+(自動翻譯)
+嗨，您聽過我的聲音嗎？好吧，這裡我們談論 AI 的共識，一邊人認為好，另一邊人則認為不好。然後我們可以投票支持或反對，也可以選擇結束討論；但如果每個人都有不同看法，情況就會變得更複雜。
+
+[下午07:27:21] Joshua Yang: AI it's not bad, it's not good and we can continue to talk about it The idea is that Now this is changing It's a way of doing a strategy It's a way of doing a strategy It's a way of doing a strategy It's a way of doing a strategy And it's not able to do a strategy It's a way of doing a strategy So it's a way of doing two different things
+
+(自動翻譯)
+人工智慧並非完全好或完全壞，我們仍可以繼續討論它。現在它正改變著我們的做事方式，已成為一種制定策略的手段。然而，人工智慧本身並不能替代策略，它只是推進兩件不同事務的其中一種方式。
+
+[下午07:27:49] Joshua Yang: This is my current video. I don't know if you're using this tool. The biggest challenge is what you can change. I don't know if you have any ideas.
+
+(自動翻譯)
+這是我目前錄製的影片。  
+我不確定您會不會用到這個工具。  
+最大的困難在於到底能改變什麼。  
+請問您有什麼想法嗎？
+
+[下午07:28:28] Joshua Yang: Oh, this is a good question, but actually this is a good question for a long time. But because it needs to be done in the process, And at the end of the video, we also found OpenAI Whisper
+
+(自動翻譯)
+噢，這是一個好問題，但實際上它已經好一陣子了，因為需要在過程中完成。影片結尾時，我們也發現了 **OpenAI Whisper**。
+
+[下午07:28:54] Joshua Yang: It's still high So now we're going to use OpenAI Whisper to do this But of course, if you want to do it And if you want to do it, you want to do it What kind of space will be able to do it We can do it with other AI Of course, we need to check out the data We need to check out the data
+
+(自動翻譯)
+它仍然很高，因此我們現在打算使用 OpenAI Whisper 來完成這項工作。不過，如果你想嘗試這樣做，或考慮以其他方式操作，皆可以與其他人工智慧配合使用。當然，我們還需要先檢查資料，確保資料品質。
+
+[下午07:29:27] Joshua Yang: How can I read the knowledge of the knowledge of the world? Because it's the knowledge of the knowledge. It's not easy to use. But now, Whisper can be more... It's a bit better to give our opinion. I don't know if there are any problems. I think it's not easy to change the AI to... to
+
+
+[下午07:29:48] Joshua Yang: 或者說會覺得說 如果目前使用OpenAI會是一個問題嗎 Peter 你有什麼想法
+
+(自動翻譯)
+或者說你會不會覺得現在使用 OpenAI 有任何問題？Peter，你有什麼想法呢？
+
+[下午07:30:19] 崔家瑋: I don't know if it's not easy to look at it. I think that if you want to use vTawian as a G0V, it's the goal of the開源. The goal of the開源 is the goal of our aim. But in fact, we use a lot of tools. It's not all of the開源. So it's the goal of our aim to achieve our aim. But from the end of the project, I hope that in the活動, it's a stable tool. The way it is used is a stable tool. And then it's a stable tool. So I'm going to use it. I'm going to use it. Thank you.
+
+(自動翻譯)
+我不確定這件事是否容易被看到，我認為如果你想把 vTawian 作為 G0V 的基礎，那麼就必須以開源為目標。開源本身就是我們的核心動力，雖然實際上我們使用了許多工具，並非所有工具皆為開源，但我們依舊以實現這些目標為最終志向。專案結束後，我希望能在各種活動中使用一套穩定的工具，並確保使用方式同樣可靠。這樣的思路我會持續執行，謝謝你。
+
+
+[下午07:30:50] 崔家瑋: The situation is better. It's a better ideal situation. I feel like I'm going to share with you. I'm going to ask you to let me know. I'll be here to introduce you. I'll be here to introduce you. I'll be here to introduce you. You
+
+(自動翻譯)
+情況更好，這是更理想的狀態。我想和你分享，也請你告訴我，我會在這裡介紹你。
+
+
+[下午07:31:19] 崔家瑋: 呵呵 我的意思是你你你剛剛有想要分享什麼東西嗎 就是針對開源這件事情
+
+(自動翻譯)
+哈哈，我是說你剛剛想分享什麼？尤其是針對開源的部分。
+
+[下午07:31:47] 崔家瑋: Thank you. Thank you.
+
+(自動翻譯)
+謝謝你！謝謝你！
+
+[下午07:32:21] 崔家瑋: Thank you. Thank you.
+
+(自動翻譯)
+謝謝你！謝謝你！
+
+[下午07:32:49] Joshua Yang: .
+
+(自動翻譯)
+是的
+
+[下午07:33:19] Joshua Yang: so
+
+(自動翻譯)
+這樣
+
+[下午07:33:34] 崔家瑋: Okay, so let's do that. I think this is a interesting idea. The good thing is that the people who are able to do it can be able to use it. We can also use Polis to focus on the system and add a service to the system. So this time Polis had the original service system problems, We're in Taiwan, the Polis We're in Taiwan
+
+(自動翻譯)
+好吧，讓我們去做吧！我覺得這是一個有趣的想法，值得嘗試，因為能夠使用它的人也都能受惠。我們也可以藉由 Polis 專注於系統，並為其加入各項服務。因此，這一次 Polis 的服務系統再次遇到問題，而 Polis 也在台灣。
+
+[下午07:34:06] 崔家瑋: So this is a kind of a current current in the current situation. This is what we're seeing. And then, it's a real experience. The next question is the of the花蓮 situation. It's just the花蓮 according to Kevin's opinion. It's a very like a a large country. So it's a very like a large country. And then, it's a very important thing. Tim, please. Thank you.
+
+(自動翻譯)
+因此，這正是目前形勢中的一種流動感。正如我們所看到的，這就是實際上的體驗。接下來的問題是關於花蓮的局勢，這只不過是「Kevin」對花蓮的看法，仿佛是一個大國。也就是說，這件事不容小覷。Tim，如果方便請多多包涵，謝謝。
+
+[下午07:34:30] 崔家瑋: Thank you. Thank you.
+
+(自動翻譯)
+謝謝你！謝謝你！
+
+[下午07:35:24] Joshua Yang: There we go ... Well, let's go ahead and take a look. ... ... ... ... ... ... ... ... ... Thank you.
+
+(自動翻譯)
+那我們去吧……好啊，讓我們繼續前進，看看……等等……謝謝。
+
+[下午07:35:34] Joshua Yang: You
+
+(自動翻譯)
+你
+
+[下午07:35:55] 崔家瑋: 先來講一下這個部分可能是我這邊要做調整的啦 就是我們9月11號會辦第二場活動嘛 所以9月11號的活動其實就應該可以設計 因為剛才在這一次的時候會發現說 我們前面討論花了蠻多的時間的 以至於後面Hear the Room保留的時間其實相對而言會比較受限一點 所以如果對我來說的話 從一個主持人的角度來說
+
+(自動翻譯)
+先說說這一段，可能需要我這邊做些調整。9 月 11 日我們會辦第二場活動，所以那天的流程還可以再有彈性設計。剛剛討論時花了不少時間，導致後面健康房的保留時間相對有限。因此，若從主持人的角度來看，...
+
+[下午07:36:25] 崔家瑋: I want to make sure that you can use the rules for the use of the rules. The first thing is that if you don't vote, then you won't vote. The second thing is that if you don't vote for the rules, it will be better for you. This is what I think of the challenge. Let's see if you have any questions. Tim, please. Thank you.
+
+(自動翻譯)
+我想確保你能夠依照規則行事。  
+第一件事：如果你不投票，那麼你就不會投票。  
+第二件事：如果你不投票，對你來說會更好。
+
+[下午07:36:53] 崔家瑋: Thank you. Thank you.
+
+(自動翻譯)
+謝謝你！謝謝你！
+
+[下午07:37:31] 崔家瑋: Oh, on the 22nd, we will do a small event. The small event will be with the Josh team. Basically, the family of the team will be in place. Like Kevin, he will also come. And then we will have to do
+
+(自動翻譯)
+喔，22 號我們會舉辦一個小型活動。這項活動會與Josh團隊一起進行，基本上團隊的親屬也會在場。
+
+[下午07:38:17] 崔家瑋: I think that the content of the content and the tools of the tools of the tool might be using Hear the Room. I think it would be using Hear the Room to do展示. I think it's going to be like this. I'm going to test Hear the Room on different ideas. But if you have to share it with me, you can share it with me. Because we currently use the tools of the tool quite a lot. And then 9月 is going to continue 7月17th of this event of the second event. We're going to get 7月17th of the event of the event of the event. We're going to be able to get 10 more years from the event of the event of the event of the event of the event of the event.
+
+(自動翻譯)
+我認為工具的內容以及相關的子工具可能會使用 Hear the Room。預計它將透過 Hear the Room 進行示範，基本上大致上會是這樣的流程。我將在不同的構想中測試 Hear the Room。若您需要與我分享相關資訊，歡迎隨時提供，因為我們目前使用的工具相當多。接下來在九月，我們會延續七月十七日的第二場活動。透過這場活動，我們預期能達成七月十七日的目標，並進一步取得長達十年的成果。
+
+[下午07:38:36] 崔家瑋: 
+九月份的活動將更著重於具體行動，並討論政府、企業與民間社群之間的分工與協作。這正是我們想針對的議題，也希望能回覆 Josh 的問題。至於花蓮的那場活動，則像是兩場活動之間的橋梁，配合「糾松團」帶來的機會，在花蓮先做一次測試。這就是目前的規劃。
+
+[下午07:39:18] 崔家瑋: I'll do it again. I can't do it again. I can't do it. The event is more like the next week. The event is more like the next week. It's a little bit late. It's a little bit late. It's a little bit late. It's a little bit late. It's from 2.30 to 4.30. So if we move to the Rayshaven, it's probably 8.30 to 10.30. The food is worth it.
+
+(自動翻譯)
+我會再做一次，我不能再做一次，我不能再做一次。  
+活動更像下週。  
+有點晚了，  
+
+活動時間是從 2 點 30 分到 4 點 30 分，  
+所以若我們搬到 Rayshaven，時間可能就會是 8 點 30 分到 10 點 30 分。
+
+[下午07:39:48] 崔家瑋: But if you think it's too late, I can be able to use the Hear the Room admin. I don't want to use different tools. I'm just going to use a tool to take everyone to participate. The main thing is that when I was able to support people, it was just me. And I'm not sure. Yeah. Okay. Sejtones
+
+(自動翻譯)
+但是如果你認為已經太晚，我可以使用 Hear the Room 的管理員功能。我不想用不同的工具，我只是想用一個工具讓每個人都能參與。
+
+[下午07:41:26] 崔家瑋: I don't know what I'm doing. I don't know. I don't know. I don't know. Yeah. And then the second one is the Yeah
+
+(自動翻譯)
+我不知道我在做什麼。  
+
+是的。  
+接著第二個是。  
+是的。
+
+[下午07:41:54] 崔家瑋: Sorry, you said. There is a lot of people talking about it. There is a lot of people talking about it. The sound of the sound is not like this. It's just a little bit of a video. Yeah. Thank you.
+
+(自動翻譯)
+抱歉，您提到許多人都在討論這個問題，確實如此，但那段聲音並非正確的，只是影片的一小部分，謝謝。
+
+[下午07:42:27] 崔家瑋: Where is it? Where is it?
+
+(自動翻譯)
+它在哪裡？  
+它在哪裡？
+
+[下午07:45:17] 崔家瑋: This is a question. We were talking about a conference in New York. They were talking about this. But I think it was a bit... Oh, Norway. It was a bit difficult. I think it was a bit difficult. Yeah.
+
+(自動翻譯)
+這件事確實算是一個問題。  
+我們在紐約討論一場會議，他們也在討論這個問題。但我覺得這有點……啊，挪威。
+
+[下午07:46:12] 崔家瑋: Thank you. Thank you.
+
+(自動翻譯)
+謝謝你！謝謝你！
+
+[下午07:47:25] 崔家瑋: Thank you. Thank you.
+
+(自動翻譯)
+謝謝你！謝謝你！
+
+[下午07:50:10] 崔家瑋: Thank you. Thank you.
+
+(自動翻譯)
+謝謝你！謝謝你！
+
+[下午07:50:42] 崔家瑋: Thank you. Thank you.
+
+(自動翻譯)
+謝謝你！謝謝你！
+
+[下午07:52:23] 崔家瑋: I think maybe we can do the things that we can do here is to see what the event looks like and now we can see what the event looks like and then we can see if we can participate in the event but because they are probably going to be in the future so we may not be able to... but I think if we have a chance to see if we can ask them to participate in the event and then we can talk about the event I think it would be a better situation Hey, Kevin, you...
+
+(自動翻譯)
+我想也許我們可以先觀察這個活動的樣子。現在我們已經能看到活動的情況，接著就能評估是否能參與。不過，因為他們可能還未到場，我們或許無法……。我認為如果能先確認是否能邀請他們參加，然後再討論活動，那樣會比較好。不管怎麼樣，嗨，Kevin，你最近怎麼樣？
+
+[下午07:52:50] 崔家瑋: I think it's about the time. The first thing is that I just talked about Thompson. I asked him to share his story in England. The second thing is that we have a lot of new people. There are a lot of people who have a long time ago. So I think I should have a little bit of time for everyone to be able to introduce yourself. Hey, I can't wait for him. You want to share your thoughts? Do you want to share your thoughts? Yes, you can.
+
+(自動翻譯)
+我先說說關於時間的第一件事：我剛才提到湯普森，請他在英國分享他的故事。第二件事是，我們有不少新人，也有許多人已經在這裡工作很久了，所以我想給每個人一些時間來自我介紹。嘿，我可不能等他。你想先分享一下自己的想法嗎？如果還有什麼想說的，請隨時告訴我。好的，你可以。
+
+[下午07:53:16] 崔家瑋: Oh.
+
+(自動翻譯)
+好的。
+
+[下午07:55:25] 崔家瑋: Thank you for your support. Thank you for your support. I feel very good for you to see you in the花蓮場 and many of the花蓮伴. See you next time.
+
+(自動翻譯)
+感謝各位的支持，感謝各位的支持，非常高興能在花蓮會場與許多花蓮朋友相見。
+
+[下午07:55:57] 崔家瑋: So maybe we can do a little bit of a follow-up. Thompson, maybe you don't have time to see if you want to talk about next week, or do you want to talk about some things? You think? No problem. Next week, let's talk about Thompson. Let's share his English. Thompson, he is now in the United States.
+
+(自動翻譯)
+湯普森，或許你下週沒時間。如果你想討論某件事情，隨時告訴我。你覺得如何？沒問題，等下週再聊聊湯普森。
+
+[下午07:56:29] 崔家瑋: some research. So, I'm grateful for you for that. If you want to join the next week, you can click on the microphone. I don't have to click on the microphone, because the microphone is our AI function. So it will be able to record your background. Then we'll have a friend called Bastian. He will be able to use the water. He will be able to add some information. So if you can, you can check this function. The last time. Because today there is a
+
+(自動翻譯)
+有些研究需要進一步討論，對此我非常感謝你的協助。若你想於下週加入，請先點擊麥克風。其實你不必手動再點擊，因為視訊通話中的麥克風功能已是我們的 AI 功能，能自行錄音並捕捉你的背景音訊。接著，我們將邀請一位叫「巴斯頓」的同事協作；他可以運用「水」資源並添加必要的資訊。若你有時間，請先確認這項功能設定。這已是最後一次提醒，因為今天有重要會議安排。
+
+[下午07:57:16] 崔家瑋: so we'll be able to do some of your own ideas So we're gonna make you do some of your own ideas Let's take a look at the video Let's take a look at the video We're gonna do three main things One is One is I'm Peter Three main things V-taiwan And the last thing And the last thing I'm gonna do Thompson I'm gonna do the first thing
+
+(自動翻譯)
+我們會把你的一些想法納入，並讓你參與其中。先一起觀看影片。以下是我們計畫進行的三件主要事項：  
+1. 彼得會負責第一件事；  
+2. vTaiwan 的主要工作；  
+3. 我則負責完成最後一件事。  
+至於湯普森，我會先著手完成第一項工作。
+
+[下午07:57:59] 崔家瑋: Let's go.
+
+(自動翻譯)
+咱去吧。
+
+[下午07:58:33] 崔家瑋: This is our傳統. It's our傳統. You can click on the next one. Hey, you can click on the next one. You can click on the next one. You can click on the next one. This is the first one. You can click on the next one. You can click on the next one. Thank you.
+
+(自動翻譯)
+您可以點擊下一個，您可以點擊下一個，您可以點擊下一個，您可以點擊下一個，您可以點擊下一個，您可以點擊下一個，您可以點擊下一個，您可以點擊下一個，您可以點擊下一個，您可以點擊下一個。
+
+[下午08:00:46] 崔家瑋: It's just a time, let's see.
+
+(自動翻譯)
+只是一段時間，咱們看看。
+
+[下午08:02:50] 崔家瑋: I'm going to say that Alison is the age of the age of the year. He is a high school. Reset Senior means he is high 3. He has a interest in the world. We're going to do the last video. Then I'll take a look at the photo And then I'll take a look at the photo
+
+(自動翻譯)
+我要說阿裡森的年齡，他是高中生。把「老年人」改成「高三」，代表他已經是高三學生。他對世界相當好奇。接下來我們要製作最後的影片，之後我會先看照片，再看一次。
+
+[下午08:03:12] 崔家瑋: If you don't have a microphone, you can use the information you can use. Please, please.
+
+(自動翻譯)
+若你沒有麥克風，也可以利用手頭的資訊。
+
+[下午08:03:52] 崔家瑋: I think it's a good time. No, it's not a good time. You just don't have to worry about it. Please keep it. Now we have to do a good time. Finally, we'll show a photo of a photo. But because I have a computer, I will try to work on it. So I will use my phone to use my phone. Then we'll see if we can do it.
+
+(自動翻譯)
+我認為這是個好時機。可是，這並不是好時機。你其實不必擔心。請保持原狀。現在我們必須把握機會。最後，我們會展示一張照片。由於我有一台電腦，我會嘗試使用它工作，所以我會用手機來完成。
+
+[下午08:04:12] 崔家瑋: I'm going to take a look at the photo. And also, I'm going to graduate. I'm going to turn this off. Josh, can you help me? I can't hear my mic, so I can't hear your voice. Okay. Yeah.
+
+(自動翻譯)
+我要去看照片，我也要畢業，得關掉這個，喬什，你能幫忙嗎？我聽不到我的麥克風聲音，所以也聽不到你的聲音。
+
+[下午08:04:28] 崔家瑋: Do you still have to go to a new place? Or do you still have to go to a new place? I hope you have a new year. Bye bye. Bye bye.
+
+(自動翻譯)
+你還想去新地方嗎？還是想去別的地方？祝你有個新的一年。

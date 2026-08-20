@@ -1,0 +1,259 @@
+[下午07:42:43] Joshua Yang: I was in the middle of the village So I was in the middle of the village and I was with the homeowner and I was still with them I still have to know I was still with them I think I think because my parents Actually, there are a lot of times
+
+(自動翻譯)
+我身處村子中央，與房東同在。雖然我仍與他們一起，但我必須清楚自己依舊與他們相處。我這樣想，是因為我的父母實際上時間相對寬裕。
+
+[下午07:43:08] Joshua Yang: um 沉迷的 程度不雅於都市的小朋友 甚至有時候是更多 不管是看直播啊 TikTok啊 就是很多時候是這樣打發時間 然後 哇哦 也是可能四五年前的事情啊 但是很
+
+(自動翻譯)
+很抱歉，請您提供要轉寫的文字內容，才能協助您將其改成臺灣常用正體中文。謝謝！
+
+[下午07:43:42] Joshua Yang: I'm always in this in the of the群組 I'm on this week I'm being kicked out They're not not in the it's in the it's in the It's in the
+
+(自動翻譯)
+我通常都在這個群組裡，但這個禮拜我被踢出了，對方卻不在裡面。
+
+[下午07:46:14] 崔家瑋: 啊是Bashen 哎我不要確定那個 Billy知不知道就是Bestian 他是唐鳳的弟弟 對啊 然後他現在其實也 他也想要
+
+[下午07:46:44] 崔家瑋: 把一些東西架在新的 因為現在我們現在這個官網 還有就是剛剛講到那個紫色的麥克風 如果有興趣的話 可以直接點那個紫色麥克風錄影 然後他就是唐鳳的弟弟 Bestian他開發的 OK 不好意思 我們有一個新朋友加入是Rolf 對 教訓你剛好想要講什麼嗎
+
+[下午07:47:29] billy: 我覺得對
+
+[下午07:59:56] Ralph: Yeah, yeah, yeah. I'm really interested to hear what sort of what the future of VTaiwan looks like to you? Like, where are you most interested in taking the project? Yeah.
+
+(自動翻譯)
+是的，是的，是的，我真的很想聽聽 V Taiwan 的未來對你來說會是什麼樣子？像，你最感興趣的專案在哪裡？是的。
+
+[下午08:00:18] Joshua Yang: Yeah, yeah. So actually, early on today, and during the meeting, we're just talking about the possibility of incorporating our agentic citizen approach into our current framework. And that's really try to compromise for the lack of participation from certain demographics. And so, I mean, we do have our sort of online offline process, but.
+
+(自動翻譯)
+其實，今天早上在會議中，我們只討論了將我們的代理市民方法納入現行架構的可行性。
+
+[下午08:00:24] Ralph: Thank you.
+
+(自動翻譯)
+謝謝你。
+
+[下午08:00:50] Joshua Yang: We can't really claim representation because people self-select themselves to join in on these public discussion. So we do recognize and acknowledge that it doesn't represent the bigger group of the citizen. And we're thinking about how AI can represent certain citizens if they share the information with an AI agent. And then some.
+
+(自動翻譯)
+我們無法真正聲稱具備代表性，因為參與這些公開討論者是自行選擇的。故此，我們意識到並承認它並不代表更廣泛的市民群體，同時我們也在思考人工智慧如何代表部分市民，若他們與人工智慧代理共享資訊。
+
+[下午08:00:52] Ralph: Thank you.
+
+(自動翻譯)
+謝謝你
+
+[下午08:01:20] Joshua Yang: how this AI agent can kind of represent them if they can't join the real, the main process. And I think like, for example, in that case, like the federated AI would be a usable framework in this context so that people are willing to, in a privacy-facing way to sort of like be able to share their preferences, what their concerns about the issue.
+
+(自動翻譯)
+我認為，在這種情況下，聯邦學習可以作為一個可運用的框架，讓人們願意以隱私方式分享他們的偏好與對此問題的擔憂。
+
+[下午08:01:24] Ralph: Yeah.
+
+(自動翻譯)
+好的。
+
+[下午08:01:51] Joshua Yang: And, I mean, ideally, people will be able to come back to a platform to say, well, this agent over the past week has said these things, does this actually represent me or not? They can keep on fine tuning and it will be like a kind of like an inner loop kind of continuous recursive fine tuning of their own AI agent to participate in the bigger deliberation of the discussion. So that's.
+
+(自動翻譯)
+理想情況下，人們可以回到平台上說：「這個代理人在過去一週說過這些話，這真的代表我嗎？」他們可以持續精細調整，像一個內部循環般，不斷回歸並調整自己的 AI 代理，參與更大的討論。
+
+[下午08:01:54] Ralph: Yeah.
+
+(自動翻譯)
+是啊。
+
+[下午08:02:23] Ralph: Thank you.
+
+(自動翻譯)
+不客氣，若還有其他需要，歡迎再詢問！
+
+[下午08:02:27] Joshua Yang: like the bigger idea but i can i can see this i mean i see a lot of challenges going into that direction and there's a lot of questions to be asked whether whether this is actually wanted whether this is beneficial but we did run a pilot last year around october we did so we collected a survey where people put in they prompt their own ai agent and then we run like a simulation where like how people talk to each other if we're using ai
+
+(自動翻譯)
+喜歡更宏偉的構想，我也能看到其中的機會；只是我意識到、朝往那方向前進時會遇到許多挑戰。這時就有不少問題需要思考：其實這樣做是否真的符合需求？它究竟是否帶來正面效益？為了驗證這些想法，我們確實在去年十月左右進行了一個試點並收集了問卷調查。參與者在調查中提出自己的 AI 代理，接著我們進行模擬，觀察若使用 AI，彼此之間的對話會發生什麼樣的變化。
+
+[下午08:02:53] Joshua Yang: represent them um so there's some pilot that was going on and i mean so this is kind of the current idea at the moment it's it's maybe still very much in like a blue like a blueprint um of what where we're going ahead but then in the future if this scales up i i do see how solid or federate federated ai could kind of play come into play into this but at the moment we don't really have concrete plans of whether this how this
+
+(自動翻譯)
+代表他們的角色，目前已經有一些試點專案正在進行。我的意思是，這就是目前的想法：現在它可能仍然像一幅藍圖，顏色偏藍。雖然我們會繼續執行後續步驟，但若未來規模擴大，我看見會有堅實或聯邦式的 AI 能夠涉足這個領域。至於此時，我們尚未制定具體的計畫。
+
+[下午08:02:56] Ralph: yeah yeah for sure i mean so for some context on the solid side i think in flan
+
+(自動翻譯)
+是的，我確定。對於某些情境，我覺得在堅固的一面，我處於邊緣。
+
+[下午08:03:18] Joshua Yang: happen.
+
+(自動翻譯)
+發生了
+
+[下午08:03:32] Ralph: Belgium you know they uh produce a pod for every citizen in that region right I'm not exactly sure how uh it's been rolled out in production but I know it's very much in the making yes yeah because I suppose it's essentially an infrastructure for uh handling that kind of data uh giving people a platform or like a kind of location where they can provide really granular access to to information that could be used to contextualize an agent
+
+(自動翻譯)
+你知道比利時為該地區每位公民建立了一個 POD 嗎？雖說我不太確定它在實際生產環境中的部署方式，但我肯定這個系統相當重要。其實我認為它基本上就是一套用來處理此類資料的基礎設施，提供人們一個平台，能夠取得極為細緻的資訊，以便對代理人進行背景查驗。
+
+[下午08:03:47] Joshua Yang: Thank you.
+
+(自動翻譯)
+不客氣，謝謝您！
+
+[下午08:04:04] Ralph: of context yeah uh so i think i think there's a really there's a real there's a real kind of fit with the with the technology and and that particular use case um i think it's quite an interesting it's quite an interesting avenue for sure because if you're using if you're using a solid pod to do graph rag and a lot of the um a lot of the chats that were that were going on in this most recent session uh the symposium were about how you can use solid pods to uh both do federated learning but also do uh you know
+
+(自動翻譯)
+背景是：我認為真的有一個真正適合這項技術和這類特殊使用案例的解決方案。這件事相當有趣，因為如果你使用堅固的 POD 來做圖形展示並進行大量對話，正是最近幾場會議正在討論的議題。研討會主題便是如何利用堅固的 POD 進行聯邦學習，並且還有其他相關的應用。
+
+[下午08:04:17] Joshua Yang: Thank you.
+
+(自動翻譯)
+謝謝你。
+
+[下午08:04:27] Ralph: context generation for agents, based on based on sovereign data that the individual has control over. So if that's being used to represent them in a public policy scenario, I think it's a really it's a really powerful symbiosis. I think I think I think it's really something worth looking at, or worth thinking about over the year. Mm-hmm.
+
+(自動翻譯)
+對於代理人而言，藉由以主權資料為背景所生成的內容，個人即可持有控制權。因此，若將此方式運用於代表他們於公共政策的場景，我認為這將展現出真正強大的共生關係。
+
+[下午08:04:47] Joshua Yang: Thank you.
+
+(自動翻譯)
+不客氣！若還有其他需要，隨時告訴我喔。
+
+[下午08:04:54] Ralph: Thank you.
+
+(自動翻譯)
+謝謝你
+
+[下午08:05:18] Joshua Yang: Thank you.
+
+(自動翻譯)
+謝謝你
+
+[下午08:05:25] Ralph: Thank you.
+
+(自動翻譯)
+謝謝你
+
+[下午08:05:47] Joshua Yang: Let's go.
+
+(自動翻譯)
+我們走吧！
+
+[下午08:05:54] Ralph: Thank you.
+
+(自動翻譯)
+謝謝你
+
+[下午08:06:18] 崔家瑋: there are multiple instances and multiple different viewpoints from that as well so that is what we are trying to do using the issues and yeah so that is what we are doing right now and also this year we are going to succeed these kind of discussions using digital tools with the real face-to-face discussions on that so we are also talking about any possibilities to help these events not in the capital
+
+[下午08:06:23] Joshua Yang: We'll take off some light. OK. We'll move on. Later. And we'll move on. We'll move on. You can find the light. We'll move on. I'll move on. I'll move on. Thank you.
+
+(自動翻譯)
+我們會關掉一些燈光，OK，我們會繼續前進，以後我們會繼續前進，我們會繼續前進，你可以找到燈光，我們會繼續前進，我會繼續前進，我會繼續前進，謝謝你。
+
+[下午08:06:25] Ralph: Thank you.
+
+(自動翻譯)
+謝謝你
+
+[下午08:06:49] Joshua Yang: Thank you.
+
+(自動翻譯)
+謝謝你。
+
+[下午08:06:56] Ralph: Yeah, yeah.
+
+(自動翻譯)
+是的，是的。
+
+[下午08:06:56] 崔家瑋: 台北 but in other different places in taiwan like i think in taiwan we have the same problems in england like a lot of resources a lot of connections with a lot of opportunities is concentrated in taipei the capital and i think in england the case will be london a lot of like these resources and the connections are all in london so people need to bear a lot of like high price and uh high living costs to stay in london to get this opportunity but in taiwan we still have a lot of people that is living in
+
+[下午08:07:18] Joshua Yang: Yeah, that's that.
+
+(自動翻譯)
+是的，就是這樣。
+
+[下午08:07:18] 崔家瑋: i think before we left because i think the time's up right now and some participants are living as well so before we leave i think we can have a group photo together maybe yeah let's do the screenshot yeah let's do the screenshot so
+
+[下午08:07:36] Ralph: No, thank you. Thank you for sharing. Thank you for, yeah. May I just, oh, hang on. Sorry. May I just ask, could you remove my family name from the notes? Just for family name.
+
+(自動翻譯)
+不，謝謝！
+
+[下午08:07:58] Ralph: Thank you very much. All right. Perfect.
+
+(自動翻譯)
+謝謝你，一切順利，完美。
+
+[下午08:08:24] 崔家瑋: 也設計。
+
+[下午08:08:27] Ralph: Thank you.
+
+(自動翻譯)
+謝謝你。
+
+[下午08:08:53] 崔家瑋: 我們也要繼續更多的關系 與眾眾內科學 也要繼續更多的專業 同時,我們也要求專業、咱們和一些相優傳 同時, 我們也要知道專業的專業擬眾 也要求專業 所以,這將會不會有一個新的級 級續 我們立場了一次的級續,我們現在要做一件事
+
+[下午08:08:56] Joshua Yang: It's just...
+
+(自動翻譯)
+請先把完整句子寫出來，方便我幫您進行修正。
+
+[下午08:09:04] Ralph: Yes. Fantastic. Looking forward to reading it. Likewise.
+
+(自動翻譯)
+太棒了！我也期待閱讀，您也一樣嗎？
+
+[下午08:09:29] Ralph: Super.
+
+(自動翻譯)
+超級
+
+[下午08:10:01] Joshua Yang: If they want to solicit citizen input, they will reach out to VTaiwan, and then we kind of work on this project and then gather citizen opinion for different groups, which means sometimes we have more collaboration with other groups under GovZero as well. When they have a topic, they need citizen input from, so it's very fluid, and sometimes you meet more people, sometimes you meet different people, some other groups.
+
+(自動翻譯)
+如果他們想徵求公民的意見，會先與 VTaiwan 接觸，接著我們在此專案中做一些工作，為不同團體蒐集公民意見，這也代表有時我們會與 GovZero 下的其他團體合作。
+
+[下午08:10:02] Ralph: Thank you.
+
+(自動翻譯)
+謝謝你
+
+[下午08:10:30] Ralph: Thank you.
+
+(自動翻譯)
+謝謝你
+
+[下午08:11:01] Ralph: Yeah, of course. Yeah, yeah, yeah. But I think what really impressed me was...
+
+(自動翻譯)
+是的，是的，是的，是的，但我想我最深刻的印象是…
+
+[下午08:11:27] Joshua Yang: Thank you.
+
+(自動翻譯)
+謝謝你。
+
+[下午08:11:35] Ralph: how closely you work with the with the taiwanese government right i mean there's there's really kind of a really close coupling and like there have been some really um incredible outcomes that have come from your project so i'm very impressed by it from from from where we are yeah that sounds fantastic and and i i can't like encourage you enough to like reach out to the actual solid community because there is a lot of people that are like really in the
+
+(自動翻譯)
+你跟台灣政府合作得相當緊密，我的意思是說，你們的合作真的很密切。從你們的專案中看到的成果讓人難以置信，我對此印象深刻。從我們這邊聽來，這聽起來真是太好了。我也想鼓勵你持續多接觸真正的社群，因為有許多人都很喜歡參與實際且真摯的社群活動。
+
+[下午08:11:58] Joshua Yang: Thank you.
+
+(自動翻譯)
+謝謝你。
+
+[下午08:12:06] Ralph: sort of like projects and initiatives and like have the same I think ideas that that you're carrying in your group so you you will find a lot of cross like connections in in that community yeah it's quite active maybe we should talk and put together a list of that's contacts and then maybe like we can we can we can talk separately and and like uh just see if there are some introductions that might be might be useful yeah we can do that yeah okay I think we're gonna we're gonna leave now but thanks
+
+(自動翻譯)
+這裡面有不少類似的計畫與舉措，還有相同想法的項目，我覺得你們團隊中已經攜帶了不少。你會發現這個社群裡面滿多重疊且相關的連結，網絡相當活躍。或許我們可以先聊聊，順便整理一份聯絡人名單；之後再針對這些聯絡人進行單獨對談，看看是否能得到一些介紹。這樣做或許會很有幫助。先這樣先，謝謝你們，我們先先離開，祝一切順利。
+
+[下午08:12:23] 崔家瑋: OK Thank you Thank you together Thank you Thank you 拜拜 謝謝 拜拜 好 那我們今天也結束了 對感謝大家 拜拜 謝謝 好 嗯 利利的真相也真的很棒 謝謝 拜拜
+
+[下午08:12:36] Ralph: much for for for hearing us and i'm yeah really excited to carry on working together great thank you thank you so yeah ciao yeah so the in
+
+(自動翻譯)
+為了聽見我們的聲音，許多人都說：「我能聽見」。我很高興能繼續與大家攜手合作，謝謝你！謝謝你！謝謝你！謝謝你！謝謝你！
+
+[下午08:12:52] 崔家瑋: OK
