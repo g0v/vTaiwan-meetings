@@ -1,0 +1,81 @@
+**會議重點整理（正體中文）**
+
+---
+
+### 1. 工作起點與範圍
+- 先交流 **Tailwind** 的使用熟悉度，再切入 **Tofus（vtaiwan‑design‑system）** 專案的視覺與實作。
+- Repo：`https://github.com/Tofuswang/vtaiwan-design-system`（實驗性 HONO 專案，尚未上線）。
+- 主要挑戰：  
+  - RWD（不同螢幕寬度、不同語系）導致 **Navbar** 破版。  
+  - 文字長度（中文 vs. 日文）造成排版問題，需要手動微調 **padding / font‑size**。
+
+---
+
+### 2. Tailwind 版本升級與設定
+- 現有專案使用 **Tailwind 3**，欲升級至 **Tailwind 4**。  
+  - 類別名稱略有差異（如 `text-md` → `text-base`）。
+- 需要自行調整 **Tailwind config**（`style.css` / `app.css`）中的斷點（breakpoint）：
+  - 預設 `lg` 為 1024 px，改成較大（例：1286 px）即可讓 **hamburger menu** 更早折疊，避免破版。
+  - 已新增自訂斷點 `3xl`（1920 px）以供未來使用。
+
+---
+
+### 3. 工作流程（Issue‑Driven）
+| 步驟 | 說明 |
+|------|------|
+| **1️⃣ 建 Issue** | 以元件或子功能為單位（如 `Footer`, `Button`, `Icon`），在 **vue‑vTaiwan‑neo** repo 建立，貼上需求與設計連結。 |
+| **2️⃣ 指派或加標籤** | 如適合新人可加 `good first issue`，或直接 **assign** 給負責人（例：Tim）。 |
+| **3️⃣ 建 Branch** | 以 `2026NewUI‑<name>` 為前綴，從 **2026 New UI** 主分支分出。 |
+| **4️⃣ 撰寫程式** | - 先使用 **AI（Codex / ChatGPT）** 把原始 HTML 轉成 Tailwind 樣式。<br>- 手動微調 RWD、位置、字體等細節。 |
+| **5️⃣ PR & Review** | PR 目標為 `2026NewUI` 分支，由 Bestian 進行 Code Review，確定後合併。 |
+| **6️⃣ 關 Issue** | PR 合併即關閉對應 Issue；如需再調整則 Reopen。 |
+| **7️⃣ Milestone** | 所有相關 Issue 均掛到 **2026 New UI** Milestone，方便追蹤進度。 |
+
+- **寫程式** 可直接 `push` 到自己分支；若願意可直接 `write`，但建議仍走 PR 讓 Bestian 進行 double‑check。
+- 共享與溝通主要使用 **GitHub**（issue、comment、email），Slack 只作即時訊息。
+
+---
+
+### 4. 工具與學習資源
+| 工具 | 用途 |
+|------|------|
+| **Tailwind 官方文件** | 查找 class（如 `text-sm`, `font-size`）的對應值。 |
+| **CodePen 範例** | `https://codepen.io/editor/bestianT/pen/019f1c53-9b89-7d98-8c47-4a7623f34419` – 小範例測試、即時修改。 |
+| **VSCode Tailwind Extension** | 滑鼠停留 class 時即顯示對應 CSS（如 `w-4`, `p-2`），加速學習。 |
+| **AI（Codex / ChatGPT）** | 自動把靜態 HTML 轉為 Tailwind 實作，減少手寫工作；微調仍需人工。 |
+
+---
+
+### 5. 具體案例說明（Footer 調整）
+1. **目標**：把 `FooterLinkArrow` 位置從「右端對齊」改為「緊貼文字右側」。
+2. **做法**：  
+   - 在 `Footer.vue` 中使用 `flex`，把文字設定固定寬度，`flex‑1` 給文字，右側放一個可伸展的 filler（`flex-grow`）。  
+   - AI 先產出變更，人工確認後 commit。
+3. **驗證**：在 Chrome devtools 及實機預覽（large screen）確認箭頭位置正確。
+4. **流程**：  
+   - 開 `new‑ui‑footer‑arrow‑position` Issue → 實作 → PR → 合併 → 關 Issue。
+
+---
+
+### 6. 時程與期望
+- **無硬性期限**：依個人空閒時間逐步完成，每個子任務（issue）都是獨立且可隨時開始的「換皮」作業。
+- **成果**：視覺升級不會改動功能，主要是 **Tailwind 重構 + RWD 微調**，是練手與熟悉流程的好機會。
+
+---
+
+### 7. 待辦清單（示例）
+
+| Issue | 內容 | 負責人 | 里程碑 |
+|------|------|------|------|
+| `good‑first‑issue` | 2026 新 UI 首頁中央兩個按鈕樣式對齊 | Tim | 2026 New UI |
+| `footer‑arrow‑position` | 調整 FooterLinkArrow 位置 | Tim | 2026 New UI |
+| `navbar‑breakpoint` | 把 `lg` 斷點改為 1286 px，防止破版 | Tim | 2026 New UI |
+| `button‑design` | 替換舊 Button 樣式為 Tailwind 4 | 待分配 | 2026 New UI |
+| `icon‑svg‑update` | 更新系統圖示為新設計稿 | 待分配 | 2026 New UI |
+
+---
+
+**結論**  
+- 以 **Issue → Branch → PR → Review → Merge → Close** 為核心流程，將新 UI 拆解成可管理的小任務。  
+- 透過 **Tailwind 4、斷點調整、AI 協助** 完成視覺翻新，同時增進團隊對 Tailwind 的熟悉度與 RWD 處理能力。  
+- 所有變更均在 **2026 New UI** 分支與 Milestone 內追蹤，保持專案整潔與可回溯。

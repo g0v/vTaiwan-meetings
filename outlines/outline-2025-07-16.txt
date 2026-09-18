@@ -1,0 +1,6 @@
+1. Bestian 講述了他們的網站原本使用 Discourse 作為討論區，但是想要增加網站的續續性，所以決定使用同一個 Discourse 來整合。他們試圖將原本的網站內容串接到 Discourse 上，並且可以透過關鍵字搜尋討論主題。他們也討論了 Discourse 與原本網站的討論區的關係，以及如何處理垃圾文件的問題。
+最後，Peter提到了 Discourse 的封鎖功能，並討論了如何處理被封鎖的使用者。
+
+2. Yi-Ting介紹8/1議題小聚延續場的進行方式。
+
+3. [Peter的講述](https://docs.google.com/document/d/17n2dw18hA2UQzFBNMQ6kaPKSdYubRchOTPrlVmg_PHY/edit?pli=1&tab=t.0#heading=h.7083thss4cav)

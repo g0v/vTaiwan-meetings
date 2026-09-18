@@ -1,0 +1,107 @@
+**vTaiwan（V 台灣）網站與相關工具概況（重點整理）**  
+
+---
+
+## 1. 目前網站狀態
+- **平台**：已部署新版 vTaiwan 前端（**vTaiwan‑Neo**）。
+- **取代**：取代原先的 vTaiwan 網站，功能與頁面已全部完成基本建置。
+- **後續**：若有局部優化或功能擴充，請在 **議題區**（GitHub Issues）提出，討論後開 **branch** 實作。
+
+> 議題區範例：  
+> `https://github.com/g0v/vue.vTaiwan-neo/issues/104`
+
+---
+
+## 2. 資料來源與結構
+
+| 類別 | 資料來源 | 取得方式 | 用途 |
+|------|----------|----------|------|
+| **議題** | `talk.vtaiwan.cw`（Discourse） | 透過 **Meta** 分類的貼文自動匯入 | 顯示於 vTaiwan 議題區 |
+| **部落格** | `g0v.social`（Mastodon 風格的去中心化社群平台） | 以 **#vTaiwan** 標籤的貼文被爬取 | 顯示於網站 Blog 區 |
+| **逐字稿** | Firebase + Cloudflare（D1 資料庫、R2 儲存） | 會議錄音上傳 → Cloudflare Worker 轉錄 → 存於 R2 | 提供會議文字稿與 AI 大綱 |
+| **AI 大綱** | Cloudflare Worker (`vtaiwan‑transcription‑worker`) | 呼叫 Cloudflare AI（Whisper Large V3 Turbo） | 產出文字稿大綱 |
+
+### 相關連結
+- 音訊轉錄與 AI 大綱程式碼：`https://github.com/g0v/vtaiwan-transcription-worker`  
+- 議題貼文範例（Meta 分類方式）  
+  - 標題格式：`<空白>2025_花蓮_event` → 會對應到 `/topic/2025_花蓮_event`  
+  - 必填欄位：**slogan**（大標題） & **cover**（封面圖）  
+
+---
+
+## 3. 逐字稿工作流（Cloudflare Worker）
+1. **上傳檔案** → `POST /attachment`（接收音訊檔）  
+2. **轉錄**：使用 `utils/readAudioToText` → 呼叫 `inf.ai.run` 的 **Whisper Large V3 Turbo** 模型  
+3. **回傳文字稿** 給前端  
+4. **AI 大綱**：同樣在 Worker 中呼叫 AI 產生摘要、主題等  
+
+> Worker 為 **Serverless**，部署於 Cloudflare，無需自行管理伺服器。
+
+---
+
+## 4. 議題在 Discourse（talk.vtaiwan.tw）上的操作流程
+1. **建立新討論** → 必須擁有 **管理員權限** 才能選擇 **Meta** 分類。  
+2. **Meta 標題格式**：`<空白>數字_英文`（如 ` 2025_花蓮_event`）  
+3. **必填欄位**：  
+   - **Slogan** → 議題大標題  
+   - **Cover** → 封面圖片（放於前端 repo `public/cover/`）  
+4. **意見徵集**：在貼文中加入 Polis 連結，投票結果會自動顯示於 vTaiwan 議題頁。
+
+> 若沒有管理員權限，可先完成其他欄位，之後請管理員將分類改為 Meta。
+
+---
+
+## 5. 封面圖管理
+- 任何 **vTaiwan‑Neo** 專案協作者皆可把圖片上傳至 `public/cover/` 資料夾。  
+- 圖片會自動成為靜態檔案，可直接以 URL `https://vtaiwan.tw/cover/<檔名>` 呼叫。  
+
+---
+
+## 6. SenseMaker（意見重整器）使用概述
+### 目的
+- 透過 AI 解析 Polis 投票與評論資料，生成可閱讀的報告與視覺化結果。
+
+### 前置工作
+1. **註冊 OpenRouter**（`https://openrouter.ai/`）取得 **API Key**。  
+2. 充值少量信用（約 $5 美金即可支援 30+ 次分析），成本較低。  
+
+### 操作流程
+1. **匯出 Polis 原始資料**（`comments.csv`）  
+   - 在 polis.tw 或 pol.is 的報告頁點選「Export」下載。  
+2. **上傳 CSV** 至 SenseMaker Web UI（前端 repo `g0v/sensemaker-frontend`）。  
+3. **選擇模型**（OpenRouter 提供的模型）並執行分析。  
+4. **產生報告**：包含投票分布、意見摘要、關鍵詞等。  
+
+### 相關資源
+- 前端專案：`https://github.com/g0v/sensemaker-frontend`  
+- 操作說明（HackMD）：`https://g0v.hackmd.io/@tmonk/rJHYWR9S4/...`  
+
+---
+
+## 7. 目前需要協助與後續規劃
+| 項目 | 需求 | 負責或可協助單位 |
+|------|------|------------------|
+| **SenseMaker 前端 UI** | 確認上傳、產報告流程是否流暢，若有問題可提出 Issue 於前端 repo。 | 前端開發者、Jigsaw 團隊（維護與微調） |
+| **Medium 文章整合** | 把已完成的說明文整理至 Medium，並在網站 Blog 區加入外部連結。 | Biton1（Medium） + 前端 repo Issue |
+| **議題貼文自動化** | 探索使用 Medium API 或其他方式自動抓取 Blog 內容顯示於 vTaiwan Blog。 | 前端開發者 |
+| **逐字稿 Worker 改版** | 如需新增功能或 bug 修正，直接在 `vtaiwan-transcription-worker` 提 PR。 | Cloudflare Worker 開發者 |
+| **新增功能（如白板）** | 目前僅作概念階段，需求評估後再規劃實作。 | 需求提出者、開發團隊 |
+
+---
+
+## 8. 重點文件與說明入口
+- **vTaiwan 站點**：[https://github.com/g0v/vue.vTaiwan-neo/](https://github.com/g0v/vue.vTaiwan-neo/)（前端）  
+- **議題區 GitHub**：[https://github.com/g0v/vue.vTaiwan-neo/issues](https://github.com/g0v/vue.vTaiwan-neo/issues)
+- **逐字稿 Worker**：[https://github.com/g0v/vtaiwan-transcription-worker]  (https://github.com/g0v/vtaiwan-transcription-worker)
+- **SenseMaker 前端**：[https://github.com/g0v/sensemaker-frontend](https://github.com/g0v/sensemaker-frontend)
+- **HackMD 操作說明**：[https://g0v.hackmd.io/vjYMEjYqRmGfYc0hScQkWg?view](https://g0v.hackmd.io/vjYMEjYqRmGfYc0hScQkWg?view)
+- **Mastodon (g0v.social)**：[https://g0v.social/tags/vTaiwan](https://g0v.social/tags/vTaiwan)
+- **blog連medium的可能性**：[https://github.com/g0v/vue.vTaiwan-neo/issues/116](https://github.com/g0v/vue.vTaiwan-neo/issues/116)
+
+---
+
+### 總結
+- **網站已上線**、功能完整，未來的改進與擴充皆以「議題」形式在 GitHub 提出、討論、Branch 開發。  
+- **資料來源**分為 Discourse 議題、Mastodon 部落格、Firebase+Cloudflare 逐字稿等，皆有自動化抓取機制。  
+- **AI 相關工具**（逐字稿轉錄、SenseMaker）已部署於 Cloudflare 與 OpenRouter，成本低、易於維護。  
+- **協作方式**：透過 GitHub Issues、HackMD、Medium 等平台共享文件與討論，並依需求分工（前端、後端、AI、社群）進行開發與測試。  

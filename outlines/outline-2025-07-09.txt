@@ -1,0 +1,7 @@
+1. 討論vTaiwan網站內容管理的方式，可能使用Slack來討論。
+2. 討論Polis的可能性，可以讓人們在建立議題平台時選擇是否要使用[Polis](https://polis.tw/home)。
+3. 討論Polic的結果可以用[Sensemaking Tools](https://g0v.hackmd.io/6mzxQkY3Sr6ILYSfSMsqVg)分析，等到Report報告出來時可以提供網址給Bestian。
+4. 討論AI摘要的結果要可以在vTaiwan網站上看到，其中AI是在後端完成。
+5. 討論視覺化分支主要想做後半段，重點摘要 (爭點 or 共識) → 視覺化。
+6. 大松時會做意見徵集，可能在現場開一個視訊轉路讓大家體驗。
+7. 討論可能性有一些實際的問題。編輯結束後會馬上看到結果。

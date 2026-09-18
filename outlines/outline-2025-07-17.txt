@@ -1,0 +1,9 @@
+Bestian 和Shuyang在討論時間差影響及網站功能的。
+
+他提到自己在台灣時間的早上6點設定網路時間，但由於英國的時差，台灣6點是英國前一天晚上11點。這使即時會議的逐字稿記錄不同步。在會議中立即修改功能，讓使用者可以自行選擇參與的日期。
+
+他們也討論了管理員的權限，主要資料的修改和覆蓋，以及不同的功能，例如施工中的按鈕、Github Issue 連結、程式碼結構、討論議題、AI 的可靠性、網站架構，以及使用 Tailwind CSS 和 Firebase 驗證。
+
+之後是cursor編輯器的安裝與試用，Shuyang成功以vibe coding的方法解決了[議題#58](https://github.com/g0v/vue.vTaiwan-neo/issues/58)。
+
+之後是Github Dektop的安裝與試用，以視覺化的方式管理Git。Shuyang成功把更動push上遠端。
