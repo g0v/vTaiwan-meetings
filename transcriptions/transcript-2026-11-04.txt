@@ -8,7 +8,7 @@
 
 [下午07:07:00] 崔家瑋: 然後本週的 g0v 大松，有誰會來嗎？目前的話，OK，我要先清點一下大松的東西。本週就是 g0v 大松啦，我們要報告什麼東西？我們要邀請大家……
 
-[下午07:07:33] 崔家瑋: 台灣什麼東西〔此處轉錄不明，待核對原音〕，我們可能要想，等一下可以再想一下。
+[下午07:07:33] 崔家瑋: 在vTaiwan的坑做什麼東西，我們可能要想，等一下可以再想一下。
 
 [下午07:07:59] 崔家瑋: OK
 
@@ -18,11 +18,11 @@
 
 [下午07:09:31] 崔家瑋: 那我就可以把那個共筆直接貼到 g0v 大松的、g0v 11 月 18 號〔日期待核對原音〕大松的內容上。好，那我們看一下今天，不太確定其他人會不會上線。Hey，Thompson 上線了，等一下可以邀請 Thompson 來分享一下《共議未來》的心得。說來慚愧，我還真的是忙到沒時間讀耶，這就已經成了……
 
-[下午07:10:02] 崔家瑋: 但是我陷入某種惡性循環，太忙了，導致假日的時候都是想讓 D〔此處轉錄不明，待核對原音〕好好休息一下，結果就沒有時間了。那我們就直接開始囉。我們近期有了蠻多的活動，然後現在就是一併來更新，就是看一下怎麼……這樣子拉比較好。好的，就是明天我們會有個跟 GEMIC 的晚餐聚會。
+[下午07:10:02] 崔家瑋: 但是我陷入某種惡性循環，太忙了，導致假日的時候都是想讓自己好好休息一下，結果就沒有時間了。那我們就直接開始囉。我們近期有了蠻多的活動，然後現在就是一併來更新，就是看一下怎麼……這樣子拉比較好。好的，就是明天我們會有個跟 GEMIC 的晚餐聚會。
 
-[下午07:10:35] 崔家瑋: 然後目前來講的話，我有邀了很多的跟 vTaiwan 有關的人，所以我這邊寫的不是 vTaiwan，是寫 Team vTaiwan，就是寫了跟很多跟 vTaiwan 有關的人。然後除了我以外，還有 SITCON 的 Danny，然後 TillingV〔組織名稱待核對原音〕的 RS，然後還有就是政大的創新民主中心的微軟〔人名待核對原音〕，然後還有就是，啊，也就是……
+[下午07:10:35] 崔家瑋: 然後目前來講的話，我有邀了很多的跟 vTaiwan 有關的人，所以我這邊寫的不是 vTaiwan，是寫 Team vTaiwan，就是寫了跟很多跟 vTaiwan 有關的人。然後除了我以外，還有 SITCON 的 Danny，然後 TillingV〔組織名稱待核對原音〕的 RS，然後還有就是政大的創新民主中心的為然，然後還有就是，啊，也就是……
 
-[下午07:11:03] 崔家瑋: 民主中心的微軟〔人名待核對原音〕，然後還有就是中研院的 Crystal，然後還有 vTaiwan 的 Tim 這樣子。所以其實八個人裡面有六個人，有四個人其實不是 vTaiwan 的，應該說有六個人不是 vTaiwan，大概是這樣。然後 Tim，如果你那邊 OK 的話，能夠參加或不能夠參加的話都沒關係，就是我有留你的位置，你就是 take your time 就好了，方便的話就來。然後不會……我們目前預計討論的……
+[下午07:11:03] 崔家瑋: 民主中心的為然，然後還有就是中研院的 Crystal，然後還有 vTaiwan 的 Tim 這樣子。所以其實八個人裡面有六個人，有四個人其實不是 vTaiwan 的，應該說有六個人不是 vTaiwan，大概是這樣。然後 Tim，如果你那邊 OK 的話，能夠參加或不能夠參加的話都沒關係，就是我有留你的位置，你就是 take your time 就好了，方便的話就來。然後不會……我們目前預計討論的……
 
 [下午07:11:37] 崔家瑋: 大概就是臺灣應用 AI 的一些情境，然後還有就是臺灣的社群的相關應用。因為像我知道 Danny 跟 RS 好像各……Danny 好像就有開發一個蠻有趣的東西，就是因為他辦 SITCON 的關係，就是學生計算機年會，所以他們其實都會有很多的活動的照片。那這個照片的管理其實會是一個很大的問題，因為照片的管理不只是儲存而已，還要包含說，你要如何在……如果你需要製作文宣的時候，可以快速地調用需要的照片，那……
 
@@ -30,32 +30,28 @@
 
 [下午07:21:42] Bestian: 好，把它搶過來。或是 Thompson 可以直接開始。
 
-[下午07:22:32] Thompson Lin: I hope it will be able to take a look at it. Now I'm going to share with you. This book is from CIDS. I think it's the head of the center. It's the head of the book. And I thought that Weyran is also in CIDs. So I think Weyran...〔此段疑似辨識語言設定錯誤，轉錄失真；原文及下方自動翻譯均待核對原音。〕
+[下午07:22:32] Thompson Lin: I hope it will be able to take a look at it. Now I'm going to share with you. This book is from CIDS. I think it's the head of the center. It's the head of the book. And I thought that Weyran is also in CIDs. So I think Weyran...
 
 (自動翻譯)
 我希望你能抽空閱讀，現在我要跟你分享一本來自 CIDS 的書。我認為它是整本書的核心，也是最重要的部分。
 
-[下午07:23:04] Thompson Lin: There are lots of people to share. I'm going to read this book to share. The first one, I think that's pretty special. It's about the fact that it's about the fact that it needs to be a human base. We all thought that it's a human base. It's a human base. It's a human base. It's a human base. It's a human base. The second one that works, I think it's a human base. What we like about the moment is some population. So big sold, this is a big trend. Now the poor, zooms in the region.〔此段疑似辨識語言設定錯誤，轉錄失真；原文及下方自動翻譯均待核對原音。〕
+[下午07:23:04] Thompson Lin: There are lots of people to share. I'm going to read this book to share. The first one, I think that's pretty special. It's about the fact that it's about the fact that it needs to be a human base. We all thought that it's a human base. It's a human base. It's a human base. It's a human base. It's a human base. The second one that works, I think it's a human base. What we like about the moment is some population. So big sold, this is a big trend. Now the poor, zooms in the region.
 
 (自動翻譯)
 有許多人想要分享心得，我打算讀完這本書後再做分享。起初，我覺得這本書非常特殊；它以實際事實為核心，強調人類的基礎地位，這點大家都能共鳴。接著是第二個重點，我同樣相信這依然是人類基底的重要內容。我們也對現在的人口走向有濃厚興趣，總之這正是當前的一大趨勢。
 
-[下午07:23:29] Thompson Lin: So that the kind of community-based training is to build a very real-time and to ensure that social cooperation and community-based training is the way that the community-based training is to build a three-time point. This three-time point is to build the idea that he thought that the future will need to be able to build the power of the public. He also used to call out the future of the public-based training that he thought that he thought 希望有更多人可以投入〔此段疑似辨識語言設定錯誤，轉錄失真；原文及下方自動翻譯均待核對原音。〕
+[下午07:23:29] Thompson Lin: So that the kind of community-based training is to build a very real-time and to ensure that social cooperation and community-based training is the way that the community-based training is to build a three-time point. This three-time point is to build the idea that he thought that the future will need to be able to build the power of the public. He also used to call out the future of the public-based training that he thought that he thought 希望有更多人可以投入
 
 (自動翻譯)
 因此，這種以社區為基礎的訓練，建立了一個極為即時的模式，確保社群合作，並以三個重點為核心。
 
-[下午07:24:03] Thompson Lin: and really to teach this long-term and the kind of a way of working because now most of the people who are are going to push and push and push and push and push and then or or or or or or or or or or or or or or or The which is that that really through ,〔此段疑似辨識語言設定錯誤，轉錄失真；原文及下方自動翻譯均待核對原音。〕
+
+[下午07:24:27] Thompson Lin: 能夠完整地消化掉，然後理解並且轉譯成不是這個背景，或不是這個領域的人也可以理解的程度，去打破知識跟知識之間的隔閡，去促進更多元知識。是辨識，這個辨識指的是它必須要辨識這個知識領域裡面它現有的...
 
 (自動翻譯)
-而且真的需要教這種長期的工作方式，因為現在大多數人只不斷「推」來推，接著又不斷說「或是…」，這樣才是最真實的體驗。
+能將其完整消化、理解後，再轉化成非同領域或非相同背景的人也能理解的程度，藉此打破知識與知識之間的隔閡，促進更為多元的知識與文化交流。
 
-[下午07:24:27] Thompson Lin: 能夠完整地消化掉，然後理解並且轉譯成不是這個背景，或不是這個領域的人也可以理解的程度，去打破知識跟知識之間的隔閡，去促進更多元知識文ểter〔此處轉錄不明，待核對原音〕……是辨識，這個辨識指的是它必須要辨識這個知識領域裡面它現有的 deft 移〔此處轉錄不明，待核對原音〕……
-
-(自動翻譯)
-能將其完整消化、理解後，再轉化成非同領域或非相同背景的人也能理解的程度，藉此打破知識與知識之間的隔閡，促進更為多元的知識與文化交流。〔原轉錄部分不明，此自動翻譯亦待核對原音。〕
-
-[下午07:24:53] Thompson Lin: 喔，好耶，感謝，沒有留意到這個。OK，我有轉成繁體中文了，謝謝 Tim。OK，我回來，就是第一個辨識，是他要必須辨識出這個知識領域，它現有的，比如說它的目前知識的發展到什麼程度。然後這個知識，它是純粹的知識呢？它還是它有，譬如說……
+[下午07:24:53] Thompson Lin: 喔，好耶，感謝，沒有留意到這個(編案: 指轉錄的語言設定鈕)。OK，我有轉成繁體中文了，謝謝 Tim。OK，我回來，就是第一個辨識，是他要必須辨識出這個知識領域，它現有的，比如說它的目前知識的發展到什麼程度。然後這個知識，它是純粹的知識呢？它還是它有，譬如說……
 
 [下午07:25:19] Thompson Lin: 政治角力在裡面等等的，所以去理解這個知識現有的狀況是什麼。然後第二個發想是，這個發想比較像是去嘗試去想，這個知識要怎麼樣轉化成非這個領域的人也可以知道的語言，那這是一個發想的過程。對位就是，當所有的知識都已經成功地跨領域轉移出去之後，你要怎麼樣對齊不同領域專家的共識，或是大家的認知，那就是……
 
@@ -71,7 +67,7 @@
 
 [下午07:28:21] Thompson Lin: 彼此能夠互動，然後去撞擊彼此的想法。最後慢慢逐步打造，就是一個，後面的不管是圍公司〔此處轉錄不明，待核對原音〕也好，或者是下一步也好等等。這是信任搭建者的三個具體原則。那還有舉一個例子，是他們在 2020 的台北雙年展中，當時要討論一個非核家園小組的，就是非核這個政策的決策，是怎麼構成的，然後他在……
 
-[下午07:28:49] Thompson Lin: 這個劇場裡面，他就設定了不同的角色，比如說你可能是公部門的角色，你可能是一般的民眾，你可能是在地居民，你可能是非核相關的學者等等的。然後藉由裡面的劇場不同角色的互動，然後來讓參與者知道，每一個角色還有他的質疑型男〔此處轉錄不明，待核對原音〕，然後他在看這個議題的時候，他的出發點是什麼等等的。他就用一個很互動性的劇場，來讓參與者可以比較好投入進去，那就是……
+[下午07:28:49] Thompson Lin: 這個劇場裡面，他就設定了不同的角色，比如說你可能是公部門的角色，你可能是一般的民眾，你可能是在地居民，你可能是非核相關的學者等等的。然後藉由裡面的劇場不同角色的互動，然後來讓參與者知道，每一個角色還有他的造型，然後他在看這個議題的時候，他的出發點是什麼等等的。他就用一個很互動性的劇場，來讓參與者可以比較好投入進去，那就是……
 
 [下午07:29:18] Thompson Lin: 一個信任搭建者的一個案例。第三個是政策促進者，那這個政策促進者他提到的是，這個公共參與的專家需要有政策創業的精神。他不能只停留在完成社會對話而已，這個社會對話的結束，他怎麼把這個共識真的能對接實際的政策闡述〔此處用詞待核對原音〕，並且發揮實質影響力，是他對公共參與專家的呼籲，要去被……
 
@@ -105,7 +101,7 @@
 
 [下午07:44:36] Bestian: 資料裡面去做分析。那它的優點就是說，它可以切成地端模式這樣子，所以有一些比較不適合公開，或者是把內容上傳給通用 AI 的那種東西就可以……工具名稱怎麼拼？Steno AI，在這裡，Steno AI，S-T-E-N-O AI。然後那另外就是蛋黃區……
 
-[下午07:45:05] Bestian: 剛剛 Peter 提到說，蛋黃區對蛋白區的人，他可能想要知道蛋白區的人的意見是什麼。只要他蛋黃區的人想做三個決策方案，可是不知道蛋白區的人會有什麼樣子的反應，那他可能可以透過意見徵集或調查的方式來做。那這個時候，就可能是 Polis 可以派得上用場，或者是最近在開發的 CivicTalk 可以派得上用場的地方，就是可以把那個議題摳成〔此處用詞待核對原音〕讓公眾可以去做……
+[下午07:45:05] Bestian: 剛剛 Peter 提到說，蛋黃區對蛋白區的人，他可能想要知道蛋白區的人的意見是什麼。只要他蛋黃區的人想做三個決策方案，可是不知道蛋白區的人會有什麼樣子的反應，那他可能可以透過意見徵集或調查的方式來做。那這個時候，就可能是 Polis 可以派得上用場，或者是最近在開發的 CivicTalk 可以派得上用場的地方，就是可以把那個議題開成讓公眾可以去做……
 
 [下午07:45:17] Bestian: 意見徵集跟討論的地方。那我覺得這對蛋黃區的人來講，應該是蠻有幫助的，只是他不需要透過傳統的民意調查的方式，可以很方便地去做調查。
 
